@@ -1,1 +1,491 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/Atari2600/3-D Genesis.pdf,https://archive.org/download/mister-manuals-db/3-D%20Genesis.pdf,469642,a560f241f5f749414f03b820ede29ebb,,,3-D Genesis.pdf
+docs/Atari2600/3-D Havoc.pdf,https://archive.org/download/mister-manuals-db/3-D%20Havoc.pdf,497381,cdb11cb2d9aa3cc31d29e7fdf687f448,,,3-D Havoc.pdf
+docs/Atari2600/3-D Tic-Tac-Toe.pdf,https://archive.org/download/mister-manuals-db/3-D%20Tic-Tac-Toe.pdf,1093634,a3c17f5f073623a0918ad019d0d256ff,,,3-D Tic-Tac-Toe.pdf
+docs/Atari2600/Acid Drop.pdf,https://archive.org/download/mister-manuals-db/Acid%20Drop.pdf,432488,72704ef0732d76fa4ae18865c5206007,,,Acid Drop.pdf
+docs/Atari2600/Actionauts.pdf,https://archive.org/download/mister-manuals-db/Actionauts.pdf,438182,60c6ecb0854b2239924c9e30550ac62c,,,Actionauts.pdf
+"docs/Atari2600/Activision Decathlon, The.pdf",https://archive.org/download/mister-manuals-db/Activision%20Decathlon%2C%20The.pdf,1115309,abdc906f903e2fa0f5aad2fd9194a1b6,,,"Activision Decathlon, The.pdf"
+docs/Atari2600/Adventure.pdf,https://archive.org/download/mister-manuals-db/Adventure.pdf,999605,e5e5b92e8082e3128363e429aa3ea2e1,,,Adventure.pdf
+docs/Atari2600/Adventures of Tron.pdf,https://archive.org/download/mister-manuals-db/Adventures%20of%20Tron.pdf,1144501,f3796328755c75bc410024c731576ecd,,,Adventures of Tron.pdf
+docs/Atari2600/Air Raid .pdf,https://archive.org/download/mister-manuals-db/Air%20Raid%20.pdf,189811,93b3b83f925d7cbae83a09e8d7e8365b,,,Air Raid .pdf
+docs/Atari2600/Air Raiders.pdf,https://archive.org/download/mister-manuals-db/Air%20Raiders.pdf,711495,740ca2548aafa9c6836453f18e31aa0e,,,Air Raiders.pdf
+docs/Atari2600/Air-Sea Battle.pdf,https://archive.org/download/mister-manuals-db/Air-Sea%20Battle.pdf,1026888,5b260b7f3ce26bf1896e686d2e969ab5,,,Air-Sea Battle.pdf
+docs/Atari2600/Airlock.pdf,https://archive.org/download/mister-manuals-db/Airlock.pdf,837318,7650350e70ceab57b6a624a5433b4f2e,,,Airlock.pdf
+docs/Atari2600/Alien.pdf,https://archive.org/download/mister-manuals-db/Alien.pdf,846706,48daaeb8ed18e6b535eafea911b214dc,,,Alien.pdf
+docs/Atari2600/Alpha Beam with Ernie.pdf,https://archive.org/download/mister-manuals-db/Alpha%20Beam%20with%20Ernie.pdf,3012154,ea909391cbeaff3940371691396cd4f0,,,Alpha Beam with Ernie.pdf
+docs/Atari2600/Amidar.pdf,https://archive.org/download/mister-manuals-db/Amidar.pdf,1074067,67cf539de649dfcaea21051b0ef7074d,,,Amidar.pdf
+docs/Atari2600/Arkyology.pdf,https://archive.org/download/mister-manuals-db/Arkyology.pdf,337556,b7ac80463158ee8814baed9236359988,,,Arkyology.pdf
+docs/Atari2600/Armor Ambush.pdf,https://archive.org/download/mister-manuals-db/Armor%20Ambush.pdf,878280,55f641de40c089d00261f76421599fe1,,,Armor Ambush.pdf
+docs/Atari2600/Artillery Duel.pdf,https://archive.org/download/mister-manuals-db/Artillery%20Duel.pdf,1213850,0bf5701d55dfac88fb60890087615eea,,,Artillery Duel.pdf
+docs/Atari2600/Asteroid Fire.pdf,https://archive.org/download/mister-manuals-db/Asteroid%20Fire.pdf,254819,5050eeadce7553d25be3ba45b87f5bcf,,,Asteroid Fire.pdf
+docs/Atari2600/Asteroids.pdf,https://archive.org/download/mister-manuals-db/Asteroids.pdf,1466077,c39b559f3cc3bb3ad46ee039cc275fc1,,,Asteroids.pdf
+docs/Atari2600/Astroblast.pdf,https://archive.org/download/mister-manuals-db/Astroblast.pdf,957159,4ed33103a843fd8535efa4c0498094ed,,,Astroblast.pdf
+docs/Atari2600/Atari Video Cube.pdf,https://archive.org/download/mister-manuals-db/Atari%20Video%20Cube.pdf,1144438,dfdf963437786955e6e0d6b07c20ea9a,,,Atari Video Cube.pdf
+docs/Atari2600/Atlantis.pdf,https://archive.org/download/mister-manuals-db/Atlantis.pdf,855619,76a2006cba2dc887da6bfd469a8045b3,,,Atlantis.pdf
+docs/Atari2600/Atom Smasher.pdf,https://archive.org/download/mister-manuals-db/Atom%20Smasher.pdf,505221,a7ea89e8afbff7333f4340ffa9d77a9e,,,Atom Smasher.pdf
+docs/Atari2600/BASIC Programming.pdf,https://archive.org/download/mister-manuals-db/BASIC%20Programming.pdf,3254091,cc43230743fe3eb0554b3d59a20b7fbd,,,BASIC Programming.pdf
+docs/Atari2600/BMX Air Master.pdf,https://archive.org/download/mister-manuals-db/BMX%20Air%20Master.pdf,869444,30300adb4e390f32f733880c907cdf94,,,BMX Air Master.pdf
+docs/Atari2600/Bachelor Party.pdf,https://archive.org/download/mister-manuals-db/Bachelor%20Party.pdf,552089,6b9d415af3e99784a448877ca0918cdc,,,Bachelor Party.pdf
+docs/Atari2600/Bachelorette Party.pdf,https://archive.org/download/mister-manuals-db/Bachelorette%20Party.pdf,547211,c5094ac0ed26af27deded80750d59c47,,,Bachelorette Party.pdf
+docs/Atari2600/Backgammon.pdf,https://archive.org/download/mister-manuals-db/Backgammon.pdf,1708783,8b7d40ed15931026c9a4d988d4e125b8,,,Backgammon.pdf
+docs/Atari2600/Bank Heist.pdf,https://archive.org/download/mister-manuals-db/Bank%20Heist.pdf,730187,cd4b782d1e9b96f1accd9e889bf23575,,,Bank Heist.pdf
+docs/Atari2600/Barnstorming.pdf,https://archive.org/download/mister-manuals-db/Barnstorming.pdf,552861,7d46f2cb4d45de67356f6be11f7c9def,,,Barnstorming.pdf
+docs/Atari2600/Base Attack.pdf,https://archive.org/download/mister-manuals-db/Base%20Attack.pdf,120140,3958551056382b06c86ccd65d35dd334,,,Base Attack.pdf
+docs/Atari2600/Basic Math.pdf,https://archive.org/download/mister-manuals-db/Basic%20Math.pdf,821519,127012fc403032233b4a55a0df844b94,,,Basic Math.pdf
+docs/Atari2600/Basketball.pdf,https://archive.org/download/mister-manuals-db/Basketball.pdf,555403,2bc5bce3fe305e57678cb492e75cd386,,,Basketball.pdf
+docs/Atari2600/Battlezone.pdf,https://archive.org/download/mister-manuals-db/Battlezone.pdf,1686341,907afea0d300ddfc0142957cf90eafd6,,,Battlezone.pdf
+docs/Atari2600/Beamrider.pdf,https://archive.org/download/mister-manuals-db/Beamrider.pdf,684464,f8e0801a6df9151b60bf58a7a95c3d83,,,Beamrider.pdf
+docs/Atari2600/Beany Bopper.pdf,https://archive.org/download/mister-manuals-db/Beany%20Bopper.pdf,686250,4ce229984c01810516cc5499edf9dc37,,,Beany Bopper.pdf
+docs/Atari2600/Beat _em & Eat _em.pdf,https://archive.org/download/mister-manuals-db/Beat%20_em%20%26%20Eat%20_em.pdf,645374,e15397a9e46e2efc3aaf4d5fd5b9d587,,,Beat _em & Eat _em.pdf
+"docs/Atari2600/Berenstain Bears, The.pdf",https://archive.org/download/mister-manuals-db/Berenstain%20Bears%2C%20The.pdf,964133,e24fd2de1ebb7da0bd179654ddad56b8,,,"Berenstain Bears, The.pdf"
+docs/Atari2600/Bermuda Triangle.pdf,https://archive.org/download/mister-manuals-db/Bermuda%20Triangle.pdf,803535,1c48a4d5a2ad7951b416cbad1617d3d3,,,Bermuda Triangle.pdf
+docs/Atari2600/Berzerk.pdf,https://archive.org/download/mister-manuals-db/Berzerk.pdf,5959587,6cb91299769d731cf7e12c2b82349d76,,,Berzerk.pdf
+docs/Atari2600/Big Bird_s Egg Catch.pdf,https://archive.org/download/mister-manuals-db/Big%20Bird_s%20Egg%20Catch.pdf,2981341,22c4a2c64d3b646d7ba3340c8d2672ed,,,Big Bird_s Egg Catch.pdf
+docs/Atari2600/Birthday Mania.pdf,https://archive.org/download/mister-manuals-db/Birthday%20Mania.pdf,810575,bfd203db4d426ec86b6e20aa143560ee,,,Birthday Mania.pdf
+docs/Atari2600/Blackjack.pdf,https://archive.org/download/mister-manuals-db/Blackjack.pdf,998155,5626273aba87edcc87299bfd29db7181,,,Blackjack.pdf
+docs/Atari2600/Blueprint.pdf,https://archive.org/download/mister-manuals-db/Blueprint.pdf,1013481,f54825db904307f8c66eee92f616cd94,,,Blueprint.pdf
+docs/Atari2600/Bobby is Going Home.pdf,https://archive.org/download/mister-manuals-db/Bobby%20is%20Going%20Home.pdf,217158,caa238213bb0be68ecbe1629223ffa48,,,Bobby is Going Home.pdf
+docs/Atari2600/Boing!.pdf,https://archive.org/download/mister-manuals-db/Boing%21.pdf,481792,f0027d527137d987bfab4cdf817f7479,,,Boing!.pdf
+docs/Atari2600/Bouncin_ Baby Bunnies.pdf,https://archive.org/download/mister-manuals-db/Bouncin_%20Baby%20Bunnies.pdf,435207,20d26122005aff7b4cb29b561cc10432,,,Bouncin_ Baby Bunnies.pdf
+docs/Atari2600/Bowling.pdf,https://archive.org/download/mister-manuals-db/Bowling.pdf,909672,953095e8533d09ba3eb8feeb202698d3,,,Bowling.pdf
+docs/Atari2600/Boxing.pdf,https://archive.org/download/mister-manuals-db/Boxing.pdf,663315,acf6475a0792da10115761a7ecf3d351,,,Boxing.pdf
+docs/Atari2600/Brain Games.pdf,https://archive.org/download/mister-manuals-db/Brain%20Games.pdf,1449752,79f0b0a4e645c1f5a002a826054c4b38,,,Brain Games.pdf
+docs/Atari2600/Breakout.pdf,https://archive.org/download/mister-manuals-db/Breakout.pdf,1290370,f0a7e6621d711fb8e99ebc809dd4995b,,,Breakout.pdf
+docs/Atari2600/Bridge.pdf,https://archive.org/download/mister-manuals-db/Bridge.pdf,1681995,fdae61aeb30de3845a2eec2c69bdb998,,,Bridge.pdf
+docs/Atari2600/Buck Rogers - Planet of Zoom.pdf,https://archive.org/download/mister-manuals-db/Buck%20Rogers%20-%20Planet%20of%20Zoom.pdf,963441,487dd6d0d9eca883dc4ad8ce5cd13e3e,,,Buck Rogers - Planet of Zoom.pdf
+docs/Atari2600/Bugs .pdf,https://archive.org/download/mister-manuals-db/Bugs%20.pdf,839249,ce18ac83ca478d552051710f83347dc7,,,Bugs .pdf
+docs/Atari2600/Bugs Bunny.pdf,https://archive.org/download/mister-manuals-db/Bugs%20Bunny.pdf,457650,189d64061602e52f0ec7383c25c90ef1,,,Bugs Bunny.pdf
+docs/Atari2600/Bump _n_ Jump.pdf,https://archive.org/download/mister-manuals-db/Bump%20_n_%20Jump.pdf,1348632,c0f7ee52680661035d6f455cf23db43b,,,Bump _n_ Jump.pdf
+docs/Atari2600/Bumper Bash.pdf,https://archive.org/download/mister-manuals-db/Bumper%20Bash.pdf,1138439,6eeaebe8093275d487e5aaf325932a29,,,Bumper Bash.pdf
+docs/Atari2600/BurgerTime.pdf,https://archive.org/download/mister-manuals-db/BurgerTime.pdf,1221224,1e10efa41214f903558844c02e6de559,,,BurgerTime.pdf
+docs/Atari2600/Burning Desire.pdf,https://archive.org/download/mister-manuals-db/Burning%20Desire.pdf,618163,6415562ea10af1aa414eebc2e3cedd1d,,,Burning Desire.pdf
+docs/Atari2600/Cabbage Patch Kids - Adventures in the Park.pdf,https://archive.org/download/mister-manuals-db/Cabbage%20Patch%20Kids%20-%20Adventures%20in%20the%20Park.pdf,901099,ad8a4ece68a03bc330d650cb7e1eb1bb,,,Cabbage Patch Kids - Adventures in the Park.pdf
+docs/Atari2600/Cakewalk.pdf,https://archive.org/download/mister-manuals-db/Cakewalk.pdf,1154516,08263bfcec5c600dceddc2105bd193ec,,,Cakewalk.pdf
+docs/Atari2600/California Games.pdf,https://archive.org/download/mister-manuals-db/California%20Games.pdf,954363,404851096380f0619ac94f90930f6d67,,,California Games.pdf
+docs/Atari2600/Canyon Bomber.pdf,https://archive.org/download/mister-manuals-db/Canyon%20Bomber.pdf,444171,ba0e09f4b2e041bbc9fedd938735e23e,,,Canyon Bomber.pdf
+docs/Atari2600/Carnival.pdf,https://archive.org/download/mister-manuals-db/Carnival.pdf,989940,84c48ebce2f540f84b99cc42643de3f8,,,Carnival.pdf
+docs/Atari2600/Casino.pdf,https://archive.org/download/mister-manuals-db/Casino.pdf,1034798,f9310e2f864615b544f01c9e2a03f079,,,Casino.pdf
+docs/Atari2600/Cat Trax.pdf,https://archive.org/download/mister-manuals-db/Cat%20Trax.pdf,456702,8177a9333d2b95b3e2aaf1dd1317b1e0,,,Cat Trax.pdf
+docs/Atari2600/Cathouse Blues.pdf,https://archive.org/download/mister-manuals-db/Cathouse%20Blues.pdf,568499,a8df5ed00e479ee1a7ac3aefdafee803,,,Cathouse Blues.pdf
+docs/Atari2600/Centipede.pdf,https://archive.org/download/mister-manuals-db/Centipede.pdf,4597602,213bb48307cfe94b42d4ae36f4eb348c,,,Centipede.pdf
+docs/Atari2600/Challenge .pdf,https://archive.org/download/mister-manuals-db/Challenge%20.pdf,114218,3b53c2f26bb5c3ab6800ba9c3e91b1e4,,,Challenge .pdf
+"docs/Atari2600/Challenge of Nexar, The.pdf",https://archive.org/download/mister-manuals-db/Challenge%20of%20Nexar%2C%20The.pdf,438436,65f88f9f9d91158f5e0f4dc610a1d444,,,"Challenge of Nexar, The.pdf"
+docs/Atari2600/Championship Soccer.pdf,https://archive.org/download/mister-manuals-db/Championship%20Soccer.pdf,1937198,1388c66bed98c4e3fe5599b96fafafca,,,Championship Soccer.pdf
+docs/Atari2600/Chase the Chuck Wagon.pdf,https://archive.org/download/mister-manuals-db/Chase%20the%20Chuck%20Wagon.pdf,310641,85640e75f177d7faf63b607b97d401b7,,,Chase the Chuck Wagon.pdf
+docs/Atari2600/Checkers.pdf,https://archive.org/download/mister-manuals-db/Checkers.pdf,518675,cf0535767b8484b45f0dd882a95157ad,,,Checkers.pdf
+docs/Atari2600/China Syndrome.pdf,https://archive.org/download/mister-manuals-db/China%20Syndrome.pdf,746195,c9ab2d05cb48a891ba3792e762acca5b,,,China Syndrome.pdf
+docs/Atari2600/Chopper Command.pdf,https://archive.org/download/mister-manuals-db/Chopper%20Command.pdf,475787,1673e1c459ab250bde302bfd141d8199,,,Chopper Command.pdf
+docs/Atari2600/Chuck Norris Superkicks.pdf,https://archive.org/download/mister-manuals-db/Chuck%20Norris%20Superkicks.pdf,1159463,3527c41dfcc40c6973fd4fcaeba099c3,,,Chuck Norris Superkicks.pdf
+docs/Atari2600/Circus Atari.pdf,https://archive.org/download/mister-manuals-db/Circus%20Atari.pdf,872866,61c2b38ac9213968ec142ff02b5e6849,,,Circus Atari.pdf
+docs/Atari2600/Coco Nuts.pdf,https://archive.org/download/mister-manuals-db/Coco%20Nuts.pdf,334413,99fea73af3cf6d6122c22f65ceed1351,,,Coco Nuts.pdf
+docs/Atari2600/Codebreaker.pdf,https://archive.org/download/mister-manuals-db/Codebreaker.pdf,923501,ab9730f84b7ad29efdb2ae57834a303e,,,Codebreaker.pdf
+docs/Atari2600/Combat .pdf,https://archive.org/download/mister-manuals-db/Combat%20.pdf,477057,3022a25cb4be86abcbfd6d59109df906,,,Combat .pdf
+docs/Atari2600/Combat Two.pdf,https://archive.org/download/mister-manuals-db/Combat%20Two.pdf,971775,469ee0ea9efef3a5b5790ee3cec6a5ab,,,Combat Two.pdf
+docs/Atari2600/Commando Raid.pdf,https://archive.org/download/mister-manuals-db/Commando%20Raid.pdf,379728,bf84411528bfaf77608c31f77e0f1ac6,,,Commando Raid.pdf
+docs/Atari2600/Commando.pdf,https://archive.org/download/mister-manuals-db/Commando.pdf,494953,6f43a38fa20d61407570b8e1d6019ff0,,,Commando.pdf
+docs/Atari2600/Communist Mutants from Space.pdf,https://archive.org/download/mister-manuals-db/Communist%20Mutants%20from%20Space.pdf,779801,ae4b3ff27cdfaa0d98b5ebf8aa309d95,,,Communist Mutants from Space.pdf
+docs/Atari2600/Condor Attack.pdf,https://archive.org/download/mister-manuals-db/Condor%20Attack.pdf,648165,138bcd5da89b26cf3816b5c90e5012e3,,,Condor Attack.pdf
+docs/Atari2600/Confrontation.pdf,https://archive.org/download/mister-manuals-db/Confrontation.pdf,528600,9e900c9d9c667c76df5277fde33cef07,,,Confrontation.pdf
+docs/Atari2600/Congo Bongo.pdf,https://archive.org/download/mister-manuals-db/Congo%20Bongo.pdf,957901,ea307404bd2cc137f7abf2dc1b9c66fd,,,Congo Bongo.pdf
+docs/Atari2600/Cookie Monster Munch.pdf,https://archive.org/download/mister-manuals-db/Cookie%20Monster%20Munch.pdf,2734594,b21b7ae1a9149eef108d3723a0ac1671,,,Cookie Monster Munch.pdf
+docs/Atari2600/Cosmic Ark.pdf,https://archive.org/download/mister-manuals-db/Cosmic%20Ark.pdf,490990,9e526e21d4dfec19c4f03b1641f81293,,,Cosmic Ark.pdf
+docs/Atari2600/Cosmic Commuter.pdf,https://archive.org/download/mister-manuals-db/Cosmic%20Commuter.pdf,572887,9393ab0edb1a87164adf5ba7e8256a8b,,,Cosmic Commuter.pdf
+docs/Atari2600/Cosmic Creeps.pdf,https://archive.org/download/mister-manuals-db/Cosmic%20Creeps.pdf,615748,b0fd60a6700076ee0ba0f0fc43064a90,,,Cosmic Creeps.pdf
+docs/Atari2600/Cosmic Swarm.pdf,https://archive.org/download/mister-manuals-db/Cosmic%20Swarm.pdf,631619,fb26f20945712ee6cd28d6a525463b0c,,,Cosmic Swarm.pdf
+docs/Atari2600/Crack_ed.pdf,https://archive.org/download/mister-manuals-db/Crack_ed.pdf,435223,d00c9cbe3514a8f7350348692af4fa1f,,,Crack_ed.pdf
+docs/Atari2600/Crackpots.pdf,https://archive.org/download/mister-manuals-db/Crackpots.pdf,503694,12446c898bc4e891ef0f58f492abe9c2,,,Crackpots.pdf
+docs/Atari2600/Crash Dive.pdf,https://archive.org/download/mister-manuals-db/Crash%20Dive.pdf,782926,6c209526c4782611c60ff3d48eecb86c,,,Crash Dive.pdf
+docs/Atari2600/Crazy Climber.pdf,https://archive.org/download/mister-manuals-db/Crazy%20Climber.pdf,1579335,fdabd4d7a4f0b95b448c9533304da02e,,,Crazy Climber.pdf
+docs/Atari2600/Cross Force.pdf,https://archive.org/download/mister-manuals-db/Cross%20Force.pdf,442334,b1904062e476190944de79af6d197b55,,,Cross Force.pdf
+docs/Atari2600/Crossbow.pdf,https://archive.org/download/mister-manuals-db/Crossbow.pdf,891555,92f10bfdc30038fb8e9565866e3b8190,,,Crossbow.pdf
+docs/Atari2600/Crypts of Chaos.pdf,https://archive.org/download/mister-manuals-db/Crypts%20of%20Chaos.pdf,386761,228d4065b06eaad2497df3f02cb296f3,,,Crypts of Chaos.pdf
+docs/Atari2600/Crystal Castles.pdf,https://archive.org/download/mister-manuals-db/Crystal%20Castles.pdf,795810,2c01d3e85e664e41c78e3cc4773d396c,,,Crystal Castles.pdf
+docs/Atari2600/Cubicolor.pdf,https://archive.org/download/mister-manuals-db/Cubicolor.pdf,106989,1fab47e629f603cb9a8e138cb9310e5c,,,Cubicolor.pdf
+docs/Atari2600/Custer_s Revenge.pdf,https://archive.org/download/mister-manuals-db/Custer_s%20Revenge.pdf,705087,b2904a401918bd7199666c9637938843,,,Custer_s Revenge.pdf
+docs/Atari2600/Dancing Plate.pdf,https://archive.org/download/mister-manuals-db/Dancing%20Plate.pdf,172672,7a08a80810ccf804e8663e5801916a04,,,Dancing Plate.pdf
+docs/Atari2600/Dark Cavern.pdf,https://archive.org/download/mister-manuals-db/Dark%20Cavern.pdf,946789,c3ec948c0def02e89edac7c1df3afe25,,,Dark Cavern.pdf
+docs/Atari2600/Dark Chambers.pdf,https://archive.org/download/mister-manuals-db/Dark%20Chambers.pdf,809249,29c57f232d12d1667bfe4a846206e055,,,Dark Chambers.pdf
+docs/Atari2600/Deadly Duck.pdf,https://archive.org/download/mister-manuals-db/Deadly%20Duck.pdf,415128,6eeacbcd9caf6a6c3d339fd13f71bc53,,,Deadly Duck.pdf
+docs/Atari2600/Death Trap.pdf,https://archive.org/download/mister-manuals-db/Death%20Trap.pdf,814636,61c6077ce826854288eb0a5996a52973,,,Death Trap.pdf
+docs/Atari2600/Defender.pdf,https://archive.org/download/mister-manuals-db/Defender.pdf,6667715,242dff6fb1b69f77b58646417dedf79b,,,Defender.pdf
+docs/Atari2600/Demolition Herby.pdf,https://archive.org/download/mister-manuals-db/Demolition%20Herby.pdf,783345,f2c4c29a46d3df412911625fd26e5e8f,,,Demolition Herby.pdf
+docs/Atari2600/Demon Attack.pdf,https://archive.org/download/mister-manuals-db/Demon%20Attack.pdf,1502425,75075e884508fbc991f1d5b72e3ac2cf,,,Demon Attack.pdf
+docs/Atari2600/Demons to Diamonds.pdf,https://archive.org/download/mister-manuals-db/Demons%20to%20Diamonds.pdf,515238,3edfdd7d884d7eccea9247de918198fe,,,Demons to Diamonds.pdf
+docs/Atari2600/Depth Charge.pdf,https://archive.org/download/mister-manuals-db/Depth%20Charge.pdf,481690,4082013f95926208b878cab81406278c,,,Depth Charge.pdf
+docs/Atari2600/Desert Falcon.pdf,https://archive.org/download/mister-manuals-db/Desert%20Falcon.pdf,963827,6e52d889f1641c73416dddd0eec2ec1e,,,Desert Falcon.pdf
+docs/Atari2600/Dice Puzzle.pdf,https://archive.org/download/mister-manuals-db/Dice%20Puzzle.pdf,640523,add6444718d35da70fc81dab8a9806d2,,,Dice Puzzle.pdf
+docs/Atari2600/Dig Dug.pdf,https://archive.org/download/mister-manuals-db/Dig%20Dug.pdf,1382486,dda1ea4537412d041fa23a37390bc4b6,,,Dig Dug.pdf
+docs/Atari2600/Dodge _em.pdf,https://archive.org/download/mister-manuals-db/Dodge%20_em.pdf,462695,f7bdbb5411b3a769a1be324ab5b9dec3,,,Dodge _em.pdf
+docs/Atari2600/Dolphin.pdf,https://archive.org/download/mister-manuals-db/Dolphin.pdf,763871,cad43c698e27f7e1cad5a1708bda66f3,,,Dolphin.pdf
+docs/Atari2600/Donkey Kong .pdf,https://archive.org/download/mister-manuals-db/Donkey%20Kong%20.pdf,821554,30a020dc70d486b45b93a5a33c4e586b,,,Donkey Kong .pdf
+docs/Atari2600/Donkey Kong Jr..pdf,https://archive.org/download/mister-manuals-db/Donkey%20Kong%20Jr..pdf,784591,f613ed52db3feb137b7f99b7c52947fd,,,Donkey Kong Jr..pdf
+docs/Atari2600/Double Dragon.pdf,https://archive.org/download/mister-manuals-db/Double%20Dragon.pdf,793002,71c66b6d03dfa05b646e8c127317c40c,,,Double Dragon.pdf
+docs/Atari2600/Double Dunk.pdf,https://archive.org/download/mister-manuals-db/Double%20Dunk.pdf,539446,57e2b94fe22990a27a6f49802e3a692c,,,Double Dunk.pdf
+docs/Atari2600/Dragonfire.pdf,https://archive.org/download/mister-manuals-db/Dragonfire.pdf,1105891,c9e782e784ac2dac8130aa5c5aa5b8ca,,,Dragonfire.pdf
+docs/Atari2600/Dragonstomper.pdf,https://archive.org/download/mister-manuals-db/Dragonstomper.pdf,920594,c0c7d3c07cf96b67ef4021f3fb00015f,,,Dragonstomper.pdf
+docs/Atari2600/Dragster.pdf,https://archive.org/download/mister-manuals-db/Dragster.pdf,384227,d6b08d84cd57c393316e3a950cb00815,,,Dragster.pdf
+docs/Atari2600/E.T. the Extra-Terrestrial.pdf,https://archive.org/download/mister-manuals-db/E.T.%20the%20Extra-Terrestrial.pdf,1159976,dfaf9ad487d02378b475ca2e7a7d6614,,,E.T. the Extra-Terrestrial.pdf
+"docs/Atari2600/Earth Dies Screaming, The.pdf",https://archive.org/download/mister-manuals-db/Earth%20Dies%20Screaming%2C%20The.pdf,641291,84656b8464c28683b54751178c4a61ae,,,"Earth Dies Screaming, The.pdf"
+docs/Atari2600/Eggomania.pdf,https://archive.org/download/mister-manuals-db/Eggomania.pdf,437152,c32b5a7726d55f1376e73883bf68a4ff,,,Eggomania.pdf
+docs/Atari2600/Elevator Action.pdf,https://archive.org/download/mister-manuals-db/Elevator%20Action.pdf,284386,4acaa088e509c34e7cc5289484ff69e3,,,Elevator Action.pdf
+docs/Atari2600/Eli_s Ladder.pdf,https://archive.org/download/mister-manuals-db/Eli_s%20Ladder.pdf,394626,cbee77f055d17cf81b5269106c734443,,,Eli_s Ladder.pdf
+docs/Atari2600/Encounter at L-5.pdf,https://archive.org/download/mister-manuals-db/Encounter%20at%20L-5.pdf,650390,5e255beaa2e512c38e4932f533d4649b,,,Encounter at L-5.pdf
+docs/Atari2600/Enduro.pdf,https://archive.org/download/mister-manuals-db/Enduro.pdf,1005587,ffa48f3d967975eb8eb25ee53e83f31e,,,Enduro.pdf
+"docs/Atari2600/Entity, The.pdf",https://archive.org/download/mister-manuals-db/Entity%2C%20The.pdf,220845,3c9c75ccac57da3440909533ee3ef8f6,,,"Entity, The.pdf"
+docs/Atari2600/Entombed.pdf,https://archive.org/download/mister-manuals-db/Entombed.pdf,580245,9ed6273069c8d4af31cba3c13928650d,,,Entombed.pdf
+docs/Atari2600/Escape from the Mindmaster.pdf,https://archive.org/download/mister-manuals-db/Escape%20from%20the%20Mindmaster.pdf,870628,d2540e5126fb3b65e75e8c48ec5aa39f,,,Escape from the Mindmaster.pdf
+docs/Atari2600/Espial.pdf,https://archive.org/download/mister-manuals-db/Espial.pdf,664412,161d50e994d8acb6a2b50013f08a032e,,,Espial.pdf
+docs/Atari2600/Exocet.pdf,https://archive.org/download/mister-manuals-db/Exocet.pdf,440072,8c30670dda80b4484b902fd8187ac9bd,,,Exocet.pdf
+docs/Atari2600/Fantastic Voyage.pdf,https://archive.org/download/mister-manuals-db/Fantastic%20Voyage.pdf,821699,cced8bf981b4aa562d31f62be5f3fb05,,,Fantastic Voyage.pdf
+docs/Atari2600/Fast Eddie.pdf,https://archive.org/download/mister-manuals-db/Fast%20Eddie.pdf,682911,e6817a8c29a29af043c19bb966a25bf5,,,Fast Eddie.pdf
+docs/Atari2600/Fast Food.pdf,https://archive.org/download/mister-manuals-db/Fast%20Food.pdf,436174,499c849d167d9186f6954696e8598037,,,Fast Food.pdf
+docs/Atari2600/Fatal Run.pdf,https://archive.org/download/mister-manuals-db/Fatal%20Run.pdf,934323,b08150828a7aacd69219c5765982e81e,,,Fatal Run.pdf
+docs/Atari2600/Fathom.pdf,https://archive.org/download/mister-manuals-db/Fathom.pdf,894139,ccc7be40884784bc85b4e9560de8a1df,,,Fathom.pdf
+docs/Atari2600/Final Approach.pdf,https://archive.org/download/mister-manuals-db/Final%20Approach.pdf,510371,a82ed5cb7ece526ee1b0fc012c7d9eef,,,Final Approach.pdf
+docs/Atari2600/Fire Fighter.pdf,https://archive.org/download/mister-manuals-db/Fire%20Fighter.pdf,354007,1c23eca143d275ea89d3700f405c41b1,,,Fire Fighter.pdf
+docs/Atari2600/Fire Fly.pdf,https://archive.org/download/mister-manuals-db/Fire%20Fly.pdf,666569,86569f4b80628f1e3938998f30ab7ab7,,,Fire Fly.pdf
+docs/Atari2600/Fireball.pdf,https://archive.org/download/mister-manuals-db/Fireball.pdf,800228,192435e3f78f796882a39c3b0e782e58,,,Fireball.pdf
+docs/Atari2600/Fishing Derby.pdf,https://archive.org/download/mister-manuals-db/Fishing%20Derby.pdf,514854,37651e2f7b0e184fc0d73058b070e7b6,,,Fishing Derby.pdf
+docs/Atari2600/Flag Capture.pdf,https://archive.org/download/mister-manuals-db/Flag%20Capture.pdf,877314,96d1f7ecd90a95d2ae0634187098523a,,,Flag Capture.pdf
+docs/Atari2600/Flash Gordon.pdf,https://archive.org/download/mister-manuals-db/Flash%20Gordon.pdf,679832,6e31b1692152e675be24d5b138589b2e,,,Flash Gordon.pdf
+docs/Atari2600/Football.pdf,https://archive.org/download/mister-manuals-db/Football.pdf,479799,32dc2a63d1afd8e804adfb76e468ad36,,,Football.pdf
+docs/Atari2600/Forest.pdf,https://archive.org/download/mister-manuals-db/Forest.pdf,119959,0d67518da243bfdfd20102d730ee37c0,,,Forest.pdf
+docs/Atari2600/Frankenstein_s Monster.pdf,https://archive.org/download/mister-manuals-db/Frankenstein_s%20Monster.pdf,802125,84047923985faec79a5f1be71c9a19ea,,,Frankenstein_s Monster.pdf
+docs/Atari2600/Freeway.pdf,https://archive.org/download/mister-manuals-db/Freeway.pdf,1284464,dba0dc8ba7331beb762a354c2044e4bf,,,Freeway.pdf
+docs/Atari2600/Frog Pond.pdf,https://archive.org/download/mister-manuals-db/Frog%20Pond.pdf,495729,f5c00986349ccbdaad7545cdc3f630e2,,,Frog Pond.pdf
+docs/Atari2600/Frogger .pdf,https://archive.org/download/mister-manuals-db/Frogger%20.pdf,1210379,731a10f892fc9e48a961e323f6a97d22,,,Frogger .pdf
+docs/Atari2600/Frogger II - Threeedeep!.pdf,https://archive.org/download/mister-manuals-db/Frogger%20II%20-%20Threeedeep%21.pdf,697053,1769b148bf65fa7f55870a2490ce49ce,,,Frogger II - Threeedeep!.pdf
+docs/Atari2600/Frogs and Flies.pdf,https://archive.org/download/mister-manuals-db/Frogs%20and%20Flies.pdf,772326,a4c1f66305a3dcc43df14c8297b270e9,,,Frogs and Flies.pdf
+docs/Atari2600/Front Line.pdf,https://archive.org/download/mister-manuals-db/Front%20Line.pdf,1430971,3d790aaa00a74efbbe58904c569c76be,,,Front Line.pdf
+docs/Atari2600/Frostbite.pdf,https://archive.org/download/mister-manuals-db/Frostbite.pdf,672664,9203e1b7d73bfb87d4b82c104de0e339,,,Frostbite.pdf
+docs/Atari2600/Funky Fish.pdf,https://archive.org/download/mister-manuals-db/Funky%20Fish.pdf,437831,39890567f911f1ab7dab0394c4e04ff2,,,Funky Fish.pdf
+docs/Atari2600/G.I. Joe - Cobra Strike.pdf,https://archive.org/download/mister-manuals-db/G.I.%20Joe%20-%20Cobra%20Strike.pdf,823237,11cba033bc33a63ef3af501ad3d8cf17,,,G.I. Joe - Cobra Strike.pdf
+docs/Atari2600/Galaxian.pdf,https://archive.org/download/mister-manuals-db/Galaxian.pdf,5137060,80de7a5206d630cb15c24ad0fc886470,,,Galaxian.pdf
+docs/Atari2600/Gamma-Attack.pdf,https://archive.org/download/mister-manuals-db/Gamma-Attack.pdf,162658,afa50ac2f98d40033628e54fa3a3f2f7,,,Gamma-Attack.pdf
+docs/Atari2600/Gangster Alley.pdf,https://archive.org/download/mister-manuals-db/Gangster%20Alley.pdf,459184,12ef5a32f742dd0a4175b7aaa34efd77,,,Gangster Alley.pdf
+docs/Atari2600/Gas Hog.pdf,https://archive.org/download/mister-manuals-db/Gas%20Hog.pdf,609806,6152be6dca78275f911b55bd50b07371,,,Gas Hog.pdf
+docs/Atari2600/Gauntlet.pdf,https://archive.org/download/mister-manuals-db/Gauntlet.pdf,364645,c126ea8513bd0f071d4757270dcd289f,,,Gauntlet.pdf
+docs/Atari2600/Ghost Manor.pdf,https://archive.org/download/mister-manuals-db/Ghost%20Manor.pdf,681470,c92c49aa2005085f79be129ba0de6781,,,Ghost Manor.pdf
+docs/Atari2600/Ghostbusters II.pdf,https://archive.org/download/mister-manuals-db/Ghostbusters%20II.pdf,364484,d5c8c85e1d4837c48de682a21c25da42,,,Ghostbusters II.pdf
+docs/Atari2600/Ghostbusters.pdf,https://archive.org/download/mister-manuals-db/Ghostbusters.pdf,515224,107eb946adf34625d07ee92d4c8138b6,,,Ghostbusters.pdf
+docs/Atari2600/Gigolo.pdf,https://archive.org/download/mister-manuals-db/Gigolo.pdf,564077,c06d580cbbeff2efe3ab27386de82c45,,,Gigolo.pdf
+docs/Atari2600/Glacier Patrol.pdf,https://archive.org/download/mister-manuals-db/Glacier%20Patrol.pdf,408423,ffa3aa37fc28a45fb55b4dd2c02361a6,,,Glacier Patrol.pdf
+docs/Atari2600/Glib - Video Word Game.pdf,https://archive.org/download/mister-manuals-db/Glib%20-%20Video%20Word%20Game.pdf,448582,d6ad5b5afe010ddaf6defb67a310e624,,,Glib - Video Word Game.pdf
+docs/Atari2600/Go Go Home Monster.pdf,https://archive.org/download/mister-manuals-db/Go%20Go%20Home%20Monster.pdf,34306,42811c671313304cff9006a7410a4868,,,Go Go Home Monster.pdf
+docs/Atari2600/Golf.pdf,https://archive.org/download/mister-manuals-db/Golf.pdf,558959,298a6df505ce729e68f6c0bdc2784e61,,,Golf.pdf
+docs/Atari2600/Gopher.pdf,https://archive.org/download/mister-manuals-db/Gopher.pdf,522376,015de81f23d161c228f33748aa622075,,,Gopher.pdf
+docs/Atari2600/Gorf.pdf,https://archive.org/download/mister-manuals-db/Gorf.pdf,777007,6a9217d65f70d68102bb7484ee00bb12,,,Gorf.pdf
+docs/Atari2600/Grand Prix.pdf,https://archive.org/download/mister-manuals-db/Grand%20Prix.pdf,419511,8c72a44a04b23059b7cd145af8236e07,,,Grand Prix.pdf
+docs/Atari2600/Gravitar.pdf,https://archive.org/download/mister-manuals-db/Gravitar.pdf,1270710,d6fa547875a0e7047cab36f10a616775,,,Gravitar.pdf
+docs/Atari2600/Gremlins.pdf,https://archive.org/download/mister-manuals-db/Gremlins.pdf,415764,945fdd74155e2490a2b7e139575732e1,,,Gremlins.pdf
+docs/Atari2600/Guardian.pdf,https://archive.org/download/mister-manuals-db/Guardian.pdf,567224,7704fddbecc88219983491c823c545d5,,,Guardian.pdf
+docs/Atari2600/Gyruss.pdf,https://archive.org/download/mister-manuals-db/Gyruss.pdf,745616,61218964f7878f94cc5fffb83ac64fb1,,,Gyruss.pdf
+docs/Atari2600/H.E.R.O..pdf,https://archive.org/download/mister-manuals-db/H.E.R.O..pdf,1284656,3877d82b1ff6c1e2c3f15a8e000ba8d3,,,H.E.R.O..pdf
+docs/Atari2600/Halloween.pdf,https://archive.org/download/mister-manuals-db/Halloween.pdf,365720,99388b4a66cb03858ad54e067e4977e1,,,Halloween.pdf
+docs/Atari2600/Hangman.pdf,https://archive.org/download/mister-manuals-db/Hangman.pdf,743420,f387f16929d10ebc1aa32b760d810113,,,Hangman.pdf
+docs/Atari2600/Haunted House.pdf,https://archive.org/download/mister-manuals-db/Haunted%20House.pdf,912662,e1e661e787f83a0f83762eea9b9de49a,,,Haunted House.pdf
+docs/Atari2600/Holey Moley.pdf,https://archive.org/download/mister-manuals-db/Holey%20Moley.pdf,945662,09c0334a7cc8610e136c58fcd91817fa,,,Holey Moley.pdf
+docs/Atari2600/Home Run.pdf,https://archive.org/download/mister-manuals-db/Home%20Run.pdf,761698,043bb4c0e56d60058ea5e5bf01ff425d,,,Home Run.pdf
+docs/Atari2600/Human Cannonball.pdf,https://archive.org/download/mister-manuals-db/Human%20Cannonball.pdf,777793,7505b65d38712a4bbda0ee3ed4049e23,,,Human Cannonball.pdf
+docs/Atari2600/Hunt & Score.pdf,https://archive.org/download/mister-manuals-db/Hunt%20%26%20Score.pdf,619426,d4372475d1c559af94dc2f794dbd8cff,,,Hunt & Score.pdf
+docs/Atari2600/Ice Hockey.pdf,https://archive.org/download/mister-manuals-db/Ice%20Hockey.pdf,405720,3c4c951280b6393b730c9f594987b792,,,Ice Hockey.pdf
+docs/Atari2600/Ikari Warriors.pdf,https://archive.org/download/mister-manuals-db/Ikari%20Warriors.pdf,636782,222ae534caba97144b7b49f0326317c8,,,Ikari Warriors.pdf
+docs/Atari2600/Inca Gold.pdf,https://archive.org/download/mister-manuals-db/Inca%20Gold.pdf,66093,9eb193e32b87b316f8d28bc0b4ec904c,,,Inca Gold.pdf
+docs/Atari2600/Indy 500.pdf,https://archive.org/download/mister-manuals-db/Indy%20500.pdf,878312,f008017b738bf78f279a8de84b36128d,,,Indy 500.pdf
+docs/Atari2600/Infiltrate.pdf,https://archive.org/download/mister-manuals-db/Infiltrate.pdf,908736,aad85f7e12eedba38faa04b2427e47c5,,,Infiltrate.pdf
+docs/Atari2600/International Soccer.pdf,https://archive.org/download/mister-manuals-db/International%20Soccer.pdf,915407,eabd019589d547c4b9cc6b907c2602af,,,International Soccer.pdf
+docs/Atari2600/James Bond - 007.pdf,https://archive.org/download/mister-manuals-db/James%20Bond%20-%20007.pdf,869807,1f1dcfa44265faf04967cdd22c8f2eb1,,,James Bond - 007.pdf
+docs/Atari2600/Jawbreaker.pdf,https://archive.org/download/mister-manuals-db/Jawbreaker.pdf,459750,647672813ac900907f6a8bce2c7d2b24,,,Jawbreaker.pdf
+docs/Atari2600/Journey Escape.pdf,https://archive.org/download/mister-manuals-db/Journey%20Escape.pdf,1009290,2f4e5f2707a75dd51fd9b31cb28b27b1,,,Journey Escape.pdf
+docs/Atari2600/Joust.pdf,https://archive.org/download/mister-manuals-db/Joust.pdf,1216516,d4593d638b911392944e1f605745c7a2,,,Joust.pdf
+docs/Atari2600/Jr. Pac-Man.pdf,https://archive.org/download/mister-manuals-db/Jr.%20Pac-Man.pdf,604638,54137d1d067bcfcfac9ac141aa48482f,,,Jr. Pac-Man.pdf
+docs/Atari2600/Jungle Fever.pdf,https://archive.org/download/mister-manuals-db/Jungle%20Fever.pdf,851801,9e75230296e0a9caeb07d1f7c1c679c1,,,Jungle Fever.pdf
+docs/Atari2600/Jungle Hunt.pdf,https://archive.org/download/mister-manuals-db/Jungle%20Hunt.pdf,1275468,8cba9f9d599015f3835ed5e65ea84dab,,,Jungle Hunt.pdf
+docs/Atari2600/Kabobber.pdf,https://archive.org/download/mister-manuals-db/Kabobber.pdf,727943,fa3c3c113e80d79eca4a1587090a335e,,,Kabobber.pdf
+docs/Atari2600/Kaboom!.pdf,https://archive.org/download/mister-manuals-db/Kaboom%21.pdf,469047,dfe7a6c1334b741a910a154280bb0a6c,,,Kaboom!.pdf
+docs/Atari2600/Kangaroo.pdf,https://archive.org/download/mister-manuals-db/Kangaroo.pdf,1170671,28bb7283b2ce8ec5a5a6a6dd1eb44935,,,Kangaroo.pdf
+docs/Atari2600/Karate.pdf,https://archive.org/download/mister-manuals-db/Karate.pdf,497797,5549ea7b8e3ff05197e9680dbf84eb69,,,Karate.pdf
+docs/Atari2600/Keystone Kapers.pdf,https://archive.org/download/mister-manuals-db/Keystone%20Kapers.pdf,1300200,56f4e2af609a59ea75639ed1ea25de31,,,Keystone Kapers.pdf
+docs/Atari2600/Killer Satellites.pdf,https://archive.org/download/mister-manuals-db/Killer%20Satellites.pdf,920613,3fcf771a0a927f528e9524b4734832c8,,,Killer Satellites.pdf
+docs/Atari2600/King Kong.pdf,https://archive.org/download/mister-manuals-db/King%20Kong.pdf,550291,3f9516aa733f21054a4e47f43732733d,,,King Kong.pdf
+docs/Atari2600/Klax.pdf,https://archive.org/download/mister-manuals-db/Klax.pdf,1163173,db877ccb5050f6330fd53982b8b465d5,,,Klax.pdf
+docs/Atari2600/Knight on the Town.pdf,https://archive.org/download/mister-manuals-db/Knight%20on%20the%20Town.pdf,958280,734ce77c4f9d2e4fb10aa2cef8a5261a,,,Knight on the Town.pdf
+docs/Atari2600/Kool-Aid Man.pdf,https://archive.org/download/mister-manuals-db/Kool-Aid%20Man.pdf,474059,b629053a2566a5cef593c1f67f42065b,,,Kool-Aid Man.pdf
+docs/Atari2600/Krull.pdf,https://archive.org/download/mister-manuals-db/Krull.pdf,503084,bcb747c0a7f38685c964d2db41900538,,,Krull.pdf
+docs/Atari2600/Kung-Fu Master.pdf,https://archive.org/download/mister-manuals-db/Kung-Fu%20Master.pdf,532419,37a1b832cd15a8e37a9c4e7e50cfbc5e,,,Kung-Fu Master.pdf
+docs/Atari2600/Lady in Wading.pdf,https://archive.org/download/mister-manuals-db/Lady%20in%20Wading.pdf,545993,a69edd46ba5f8d9f9cb7dec82998cbf1,,,Lady in Wading.pdf
+docs/Atari2600/Laser Blast.pdf,https://archive.org/download/mister-manuals-db/Laser%20Blast.pdf,460501,c77109e9da831f3150aaba4959aae693,,,Laser Blast.pdf
+docs/Atari2600/Laser Gates.pdf,https://archive.org/download/mister-manuals-db/Laser%20Gates.pdf,920969,14801cb16ed295069e0dbe57c5c8cd51,,,Laser Gates.pdf
+docs/Atari2600/Lasercade.pdf,https://archive.org/download/mister-manuals-db/Lasercade.pdf,1015786,434f7717cec379b2e780bff2be55fc46,,,Lasercade.pdf
+docs/Atari2600/Lilly Adventure.pdf,https://archive.org/download/mister-manuals-db/Lilly%20Adventure.pdf,373403,bd754ec6aeed1ef2a9d0d7bb02f38811,,,Lilly Adventure.pdf
+docs/Atari2600/Lochjaw.pdf,https://archive.org/download/mister-manuals-db/Lochjaw.pdf,503118,6ec0a2a62420dc7fb6b9cd30067b9b2f,,,Lochjaw.pdf
+docs/Atari2600/Lock _n_ Chase.pdf,https://archive.org/download/mister-manuals-db/Lock%20_n_%20Chase.pdf,1019546,c8de067a4314c072247a82e49d33e007,,,Lock _n_ Chase.pdf
+docs/Atari2600/London Blitz.pdf,https://archive.org/download/mister-manuals-db/London%20Blitz.pdf,936940,d40f23ef535ebcffc6be4787489e7813,,,London Blitz.pdf
+docs/Atari2600/Looping.pdf,https://archive.org/download/mister-manuals-db/Looping.pdf,810808,231aac14e49d056b4b93a45b49579c08,,,Looping.pdf
+"docs/Atari2600/Lord of the Rings, The - Journey to Rivendell.pdf",https://archive.org/download/mister-manuals-db/Lord%20of%20the%20Rings%2C%20The%20-%20Journey%20to%20Rivendell.pdf,971175,fdaf4aa504e684b1903f2b2e1b30d7a8,,,"Lord of the Rings, The - Journey to Rivendell.pdf"
+docs/Atari2600/Lost Luggage.pdf,https://archive.org/download/mister-manuals-db/Lost%20Luggage.pdf,477175,79600ea67ec06e300a1db0ac8983d57d,,,Lost Luggage.pdf
+docs/Atari2600/M.A.S.H..pdf,https://archive.org/download/mister-manuals-db/M.A.S.H..pdf,951878,198710f975177f8dd6eecd4da0fc9adb,,,M.A.S.H..pdf
+docs/Atari2600/MAD.pdf,https://archive.org/download/mister-manuals-db/MAD.pdf,539317,57904543b038e2f2d255df4d339b580d,,,MAD.pdf
+docs/Atari2600/MagiCard.pdf,https://archive.org/download/mister-manuals-db/MagiCard.pdf,7003382,09d5177bf251ae341cb70e3c5c243052,,,MagiCard.pdf
+docs/Atari2600/Malagai.pdf,https://archive.org/download/mister-manuals-db/Malagai.pdf,428337,7cc6e6e95aa08be102b71c5230ece397,,,Malagai.pdf
+docs/Atari2600/Mangia_.pdf,https://archive.org/download/mister-manuals-db/Mangia_.pdf,988405,5b512877394e9ddaa35ecb3e31d9b142,,,Mangia_.pdf
+docs/Atari2600/Marauder.pdf,https://archive.org/download/mister-manuals-db/Marauder.pdf,500083,2c19b1466dcf5c689f3ce9fad336992c,,,Marauder.pdf
+docs/Atari2600/Marine Wars.pdf,https://archive.org/download/mister-manuals-db/Marine%20Wars.pdf,752391,8909e7496292782c00ab47aa7858759c,,,Marine Wars.pdf
+docs/Atari2600/Mario Bros..pdf,https://archive.org/download/mister-manuals-db/Mario%20Bros..pdf,1348245,4a6b226457a08ef8df826e653b8be79d,,,Mario Bros..pdf
+docs/Atari2600/Master Builder.pdf,https://archive.org/download/mister-manuals-db/Master%20Builder.pdf,930353,b19ea8b1b9b6419dd26ed14c1c1e8c73,,,Master Builder.pdf
+docs/Atari2600/Masters of the Universe - The Power of He-Man.pdf,https://archive.org/download/mister-manuals-db/Masters%20of%20the%20Universe%20-%20The%20Power%20of%20He-Man.pdf,2226113,bbcdc88a1d958bc2b04b846596d99e08,,,Masters of the Universe - The Power of He-Man.pdf
+docs/Atari2600/Math Grand Prix.pdf,https://archive.org/download/mister-manuals-db/Math%20Grand%20Prix.pdf,1409788,f038565aadabca2689bf5d28c45212fa,,,Math Grand Prix.pdf
+docs/Atari2600/Maze Craze - A Game of Cops _n Robbers.pdf,https://archive.org/download/mister-manuals-db/Maze%20Craze%20-%20A%20Game%20of%20Cops%20_n%20Robbers.pdf,485828,2365a51732622013eb3a879c7f80937a,,,Maze Craze - A Game of Cops _n Robbers.pdf
+docs/Atari2600/Mega Force.pdf,https://archive.org/download/mister-manuals-db/Mega%20Force.pdf,834434,92aea3e0f72e6d7ed17ec0151a8732ae,,,Mega Force.pdf
+docs/Atari2600/MegaMania.pdf,https://archive.org/download/mister-manuals-db/MegaMania.pdf,755928,aa6705ee6b47e7983b411cad0a3a8f88,,,MegaMania.pdf
+docs/Atari2600/Meltdown.pdf,https://archive.org/download/mister-manuals-db/Meltdown.pdf,663795,7c731207ca1f84d9c4d7516994d6c031,,,Meltdown.pdf
+docs/Atari2600/Midnight Magic.pdf,https://archive.org/download/mister-manuals-db/Midnight%20Magic.pdf,371339,53c722d7dbe9a6e5a6de499e9f18216b,,,Midnight Magic.pdf
+docs/Atari2600/Millipede.pdf,https://archive.org/download/mister-manuals-db/Millipede.pdf,792960,1f7d7e8df30e7e1295348470b72376bd,,,Millipede.pdf
+docs/Atari2600/Miner 2049er .pdf,https://archive.org/download/mister-manuals-db/Miner%202049er%20.pdf,439085,6b5fe1245d1bc3cabadd88f7192ba1d6,,,Miner 2049er .pdf
+docs/Atari2600/Miner 2049er Volume II.pdf,https://archive.org/download/mister-manuals-db/Miner%202049er%20Volume%20II.pdf,619084,99a73debb982476c644390acb2151100,,,Miner 2049er Volume II.pdf
+docs/Atari2600/Mines of Minos.pdf,https://archive.org/download/mister-manuals-db/Mines%20of%20Minos.pdf,808413,1dc5435a1f3befa77433837f7c3909f4,,,Mines of Minos.pdf
+docs/Atari2600/Miniature Golf.pdf,https://archive.org/download/mister-manuals-db/Miniature%20Golf.pdf,582333,803e1581ed448c275c970e963444cdcd,,,Miniature Golf.pdf
+docs/Atari2600/Missile Command.pdf,https://archive.org/download/mister-manuals-db/Missile%20Command.pdf,1584559,25eb147e22cca3d90dda566de11531b9,,,Missile Command.pdf
+docs/Atari2600/Missile Control.pdf,https://archive.org/download/mister-manuals-db/Missile%20Control.pdf,575650,246024f54620cd66045ceecb45d5822e,,,Missile Control.pdf
+docs/Atari2600/Mission 3000 A.D..pdf,https://archive.org/download/mister-manuals-db/Mission%203000%20A.D..pdf,441439,ed9c53d83d59d3e7cc2fbf5628252627,,,Mission 3000 A.D..pdf
+docs/Atari2600/Mogul Maniac.pdf,https://archive.org/download/mister-manuals-db/Mogul%20Maniac.pdf,588207,7d2adb02f61eb3305706091c76b236ba,,,Mogul Maniac.pdf
+docs/Atari2600/Montezuma_s Revenge featuring Panama Joe.pdf,https://archive.org/download/mister-manuals-db/Montezuma_s%20Revenge%20featuring%20Panama%20Joe.pdf,1058816,8b957cee4b9ea607ada9a885cdd11be5,,,Montezuma_s Revenge featuring Panama Joe.pdf
+docs/Atari2600/Moon Patrol.pdf,https://archive.org/download/mister-manuals-db/Moon%20Patrol.pdf,1198546,119b36a2bc36e181d974a66619da2ec2,,,Moon Patrol.pdf
+docs/Atari2600/Moonsweeper.pdf,https://archive.org/download/mister-manuals-db/Moonsweeper.pdf,837511,2526716921dc05422974210c2d24d926,,,Moonsweeper.pdf
+docs/Atari2600/MotoRodeo.pdf,https://archive.org/download/mister-manuals-db/MotoRodeo.pdf,526316,4d2a5e7e7d0c1a17d29e96c1c9388569,,,MotoRodeo.pdf
+docs/Atari2600/Motocross Racer.pdf,https://archive.org/download/mister-manuals-db/Motocross%20Racer.pdf,1132744,1220ad707e48f365b2f85d294ab593fa,,,Motocross Racer.pdf
+docs/Atari2600/Mountain King.pdf,https://archive.org/download/mister-manuals-db/Mountain%20King.pdf,1318304,20e756f52e8a2f8c1238ac39d93e1173,,,Mountain King.pdf
+docs/Atari2600/Mouse Trap.pdf,https://archive.org/download/mister-manuals-db/Mouse%20Trap.pdf,1043743,361818957e39d6aee490ec96773d9b11,,,Mouse Trap.pdf
+docs/Atari2600/Mr. Do! .pdf,https://archive.org/download/mister-manuals-db/Mr.%20Do%21%20.pdf,1547791,fbc7f92e670cc8c471dab43b68f90323,,,Mr. Do! .pdf
+docs/Atari2600/Mr. Do!_s Castle.pdf,https://archive.org/download/mister-manuals-db/Mr.%20Do%21_s%20Castle.pdf,456465,56675593e0dd8f60c0fa759517f71dbe,,,Mr. Do!_s Castle.pdf
+docs/Atari2600/Mr. Postman.pdf,https://archive.org/download/mister-manuals-db/Mr.%20Postman.pdf,173768,3e0e948977f831fc8b043992303c5dbe,,,Mr. Postman.pdf
+docs/Atari2600/Ms. Pac-Man.pdf,https://archive.org/download/mister-manuals-db/Ms.%20Pac-Man.pdf,1353331,582e5da61249792f84dbfc41ab740770,,,Ms. Pac-Man.pdf
+"docs/Atari2600/Music Machine, The.pdf",https://archive.org/download/mister-manuals-db/Music%20Machine%2C%20The.pdf,1001805,ef3b139204482a2f97194cf9d8f96ac0,,,"Music Machine, The.pdf"
+docs/Atari2600/My Golf.pdf,https://archive.org/download/mister-manuals-db/My%20Golf.pdf,852822,70cdbdab4f1a005f0f1a53ec98393cea,,,My Golf.pdf
+"docs/Atari2600/Name this Game and Win $10,000.pdf",https://archive.org/download/mister-manuals-db/Name%20this%20Game%20and%20Win%20%2410%2C000.pdf,648159,66cf9b7fd92fccd839fc517c1548b051,,,"Name this Game and Win $10,000.pdf"
+docs/Atari2600/Night Driver.pdf,https://archive.org/download/mister-manuals-db/Night%20Driver.pdf,618365,d4963b4082f2af6ab3d86e7022ac99d7,,,Night Driver.pdf
+docs/Atari2600/Nightmare.pdf,https://archive.org/download/mister-manuals-db/Nightmare.pdf,296111,a3184537d8ce9d638b7dc9a47d5ceae0,,,Nightmare.pdf
+docs/Atari2600/No Escape!.pdf,https://archive.org/download/mister-manuals-db/No%20Escape%21.pdf,529464,0f359eeda8fa35a444a6663a047f46a4,,,No Escape!.pdf
+docs/Atari2600/Nuts.pdf,https://archive.org/download/mister-manuals-db/Nuts.pdf,716149,bb6b42a51ec1d625c2647d8eb3d08419,,,Nuts.pdf
+docs/Atari2600/Obelix.pdf,https://archive.org/download/mister-manuals-db/Obelix.pdf,670181,ed042379181bbda97713f5bb5b49d53d,,,Obelix.pdf
+docs/Atari2600/Off Your Rocker.pdf,https://archive.org/download/mister-manuals-db/Off%20Your%20Rocker.pdf,425047,129d9a1963a06b8566135effba78f5e3,,,Off Your Rocker.pdf
+docs/Atari2600/Off the Wall.pdf,https://archive.org/download/mister-manuals-db/Off%20the%20Wall.pdf,435168,73285fb30d6fec65d2390ab40f2a4254,,,Off the Wall.pdf
+"docs/Atari2600/Official Frogger, The.pdf",https://archive.org/download/mister-manuals-db/Official%20Frogger%2C%20The.pdf,884283,3845460fe1307482df92b39d12b63c4e,,,"Official Frogger, The.pdf"
+docs/Atari2600/Oink!.pdf,https://archive.org/download/mister-manuals-db/Oink%21.pdf,647783,5c43ab4de6ea251aa1c5d3b6787ffb17,,,Oink!.pdf
+docs/Atari2600/Omega Race.pdf,https://archive.org/download/mister-manuals-db/Omega%20Race.pdf,884211,eba13983fa226514865088215bbd5540,,,Omega Race.pdf
+"docs/Atari2600/Open, Sesame!.pdf",https://archive.org/download/mister-manuals-db/Open%2C%20Sesame%21.pdf,166643,adf4d166db464012818cf6d9557f9b0e,,,"Open, Sesame!.pdf"
+docs/Atari2600/Oscar_s Trash Race.pdf,https://archive.org/download/mister-manuals-db/Oscar_s%20Trash%20Race.pdf,3104158,19d814d8c68b86375e26a6bab7226e93,,,Oscar_s Trash Race.pdf
+docs/Atari2600/Othello.pdf,https://archive.org/download/mister-manuals-db/Othello.pdf,515668,86dd00c9be8fdd33985a43affe71a121,,,Othello.pdf
+docs/Atari2600/Out of Control.pdf,https://archive.org/download/mister-manuals-db/Out%20of%20Control.pdf,807058,d5504d48fba58ddbc0be617f50694ff2,,,Out of Control.pdf
+docs/Atari2600/Outlaw.pdf,https://archive.org/download/mister-manuals-db/Outlaw.pdf,801746,7760e39a3679c396fdd0977d949777a5,,,Outlaw.pdf
+docs/Atari2600/Pac-Man.pdf,https://archive.org/download/mister-manuals-db/Pac-Man.pdf,1408242,f9443c483fdfa79f9f4cc8a056c3908d,,,Pac-Man.pdf
+docs/Atari2600/Party Mix.pdf,https://archive.org/download/mister-manuals-db/Party%20Mix.pdf,880865,4c41ec40fc40bfab36385d35b589d267,,,Party Mix.pdf
+docs/Atari2600/Pengo.pdf,https://archive.org/download/mister-manuals-db/Pengo.pdf,793313,4a2306272afd3bdf88fcd1cf5c7990d8,,,Pengo.pdf
+docs/Atari2600/Pete Rose Baseball.pdf,https://archive.org/download/mister-manuals-db/Pete%20Rose%20Baseball.pdf,359925,79ac3962412cc52a837edd3493fa3851,,,Pete Rose Baseball.pdf
+docs/Atari2600/Phaser Patrol.pdf,https://archive.org/download/mister-manuals-db/Phaser%20Patrol.pdf,1151653,a51253e3985f0c24db37511860b8d17f,,,Phaser Patrol.pdf
+docs/Atari2600/Philly Flasher.pdf,https://archive.org/download/mister-manuals-db/Philly%20Flasher.pdf,779349,d136126164054054bb552ab0d4813080,,,Philly Flasher.pdf
+docs/Atari2600/Phoenix.pdf,https://archive.org/download/mister-manuals-db/Phoenix.pdf,2983647,136366a79140e6d605347828c2303403,,,Phoenix.pdf
+docs/Atari2600/Pick Up.pdf,https://archive.org/download/mister-manuals-db/Pick%20Up.pdf,268028,20a575d3632bad3dc20b061defccff28,,,Pick Up.pdf
+docs/Atari2600/Pick _n Pile.pdf,https://archive.org/download/mister-manuals-db/Pick%20_n%20Pile.pdf,308969,834905bad2ddd209270a012dcd44b58c,,,Pick _n Pile.pdf
+docs/Atari2600/Picnic.pdf,https://archive.org/download/mister-manuals-db/Picnic.pdf,575052,5bd30321ff3645e35109e76066844409,,,Picnic.pdf
+docs/Atari2600/Piece o_ Cake.pdf,https://archive.org/download/mister-manuals-db/Piece%20o_%20Cake.pdf,1019746,1e3cf7cdbede9f10a0fc3c374fc539be,,,Piece o_ Cake.pdf
+docs/Atari2600/Pigs in Space starring Miss Piggy.pdf,https://archive.org/download/mister-manuals-db/Pigs%20in%20Space%20starring%20Miss%20Piggy.pdf,1754723,9905fa5f4256f9b4f6153a7b032c2484,,,Pigs in Space starring Miss Piggy.pdf
+docs/Atari2600/Pitfall II - Lost Caverns.pdf,https://archive.org/download/mister-manuals-db/Pitfall%20II%20-%20Lost%20Caverns.pdf,1589188,1a5beee1478af2e747e47bc2f1108e6b,,,Pitfall II - Lost Caverns.pdf
+docs/Atari2600/Pitfall!.pdf,https://archive.org/download/mister-manuals-db/Pitfall%21.pdf,688611,056cf26bb624b45322c479c724759caa,,,Pitfall!.pdf
+docs/Atari2600/Pizza Chef.pdf,https://archive.org/download/mister-manuals-db/Pizza%20Chef.pdf,35829,30101021aa4e8b2ba4dcd84cafe525da,,,Pizza Chef.pdf
+docs/Atari2600/Planet Patrol.pdf,https://archive.org/download/mister-manuals-db/Planet%20Patrol.pdf,1021331,c1b1f26b6f30c8b1870a8559dbdfa77b,,,Planet Patrol.pdf
+docs/Atari2600/Planet of the Apes.pdf,https://archive.org/download/mister-manuals-db/Planet%20of%20the%20Apes.pdf,545022,1fc7a8836ad0783a0a23f766e9d95a2c,,,Planet of the Apes.pdf
+docs/Atari2600/Plaque Attack.pdf,https://archive.org/download/mister-manuals-db/Plaque%20Attack.pdf,853549,68e79bfde8b2f12f4a03d637a6a2b363,,,Plaque Attack.pdf
+docs/Atari2600/Pleiades.pdf,https://archive.org/download/mister-manuals-db/Pleiades.pdf,578801,30cbcd997e244d33c3d6c9b3c953dc97,,,Pleiades.pdf
+docs/Atari2600/Polaris.pdf,https://archive.org/download/mister-manuals-db/Polaris.pdf,392933,9cff11d70ebe4ccf5bd2bbd8af9faa40,,,Polaris.pdf
+docs/Atari2600/Pole Position.pdf,https://archive.org/download/mister-manuals-db/Pole%20Position.pdf,1216465,31d1b7fc3b6e4e3f29cfd2dbfe69ebb6,,,Pole Position.pdf
+docs/Atari2600/Polo.pdf,https://archive.org/download/mister-manuals-db/Polo.pdf,339900,d18d66db43cf77ceb7739c54ab2ca76a,,,Polo.pdf
+docs/Atari2600/Pooyan.pdf,https://archive.org/download/mister-manuals-db/Pooyan.pdf,791093,2dc47d885131c1049c7e38a6c00075ce,,,Pooyan.pdf
+docs/Atari2600/Popeye.pdf,https://archive.org/download/mister-manuals-db/Popeye.pdf,868488,dfcc96b80644c33400ef0ff2c027f62e,,,Popeye.pdf
+docs/Atari2600/Porky_s.pdf,https://archive.org/download/mister-manuals-db/Porky_s.pdf,556182,f87b3568e096d20ceea3726b185733b3,,,Porky_s.pdf
+docs/Atari2600/Pressure Cooker.pdf,https://archive.org/download/mister-manuals-db/Pressure%20Cooker.pdf,736005,d30959eeb134e4fcdc086b1bf0ce71b4,,,Pressure Cooker.pdf
+docs/Atari2600/Private Eye.pdf,https://archive.org/download/mister-manuals-db/Private%20Eye.pdf,884650,22f7882e21148c95d2580bd0159bd82d,,,Private Eye.pdf
+docs/Atari2600/Pursuit of the Pink Panther.pdf,https://archive.org/download/mister-manuals-db/Pursuit%20of%20the%20Pink%20Panther.pdf,373071,87b5c20b1cc311a18075bc4887574e06,,,Pursuit of the Pink Panther.pdf
+docs/Atari2600/Q_bert .pdf,https://archive.org/download/mister-manuals-db/Q_bert%20.pdf,563684,a2544edf19324a6991476b78d1eb02b3,,,Q_bert .pdf
+docs/Atari2600/Q_bert_s Qubes.pdf,https://archive.org/download/mister-manuals-db/Q_bert_s%20Qubes.pdf,672517,2cdc355af76d5c0181a4f005c4fcbe83,,,Q_bert_s Qubes.pdf
+docs/Atari2600/Quadrun.pdf,https://archive.org/download/mister-manuals-db/Quadrun.pdf,449257,99ad7006a155f85b2d0ef1d749983a51,,,Quadrun.pdf
+docs/Atari2600/Quest for Quintana Roo.pdf,https://archive.org/download/mister-manuals-db/Quest%20for%20Quintana%20Roo.pdf,205043,70cb9c157d8136abec63e992f8edf7ef,,,Quest for Quintana Roo.pdf
+docs/Atari2600/Quick Step!.pdf,https://archive.org/download/mister-manuals-db/Quick%20Step%21.pdf,599495,16d5ec399240972641e89c7ddc18268a,,,Quick Step!.pdf
+docs/Atari2600/Rabbit Transit.pdf,https://archive.org/download/mister-manuals-db/Rabbit%20Transit.pdf,778742,df3fe7e87942645bd518087a4a3a6ee9,,,Rabbit Transit.pdf
+docs/Atari2600/Racer.pdf,https://archive.org/download/mister-manuals-db/Racer.pdf,1218769,f3860438c9b32d6351ab741fb79be0b6,,,Racer.pdf
+docs/Atari2600/Racquetball.pdf,https://archive.org/download/mister-manuals-db/Racquetball.pdf,386741,511b436aaedf74ec87440c0ea7173427,,,Racquetball.pdf
+docs/Atari2600/Radar Lock.pdf,https://archive.org/download/mister-manuals-db/Radar%20Lock.pdf,758342,18a56e49bd2915f63d3be83611e43287,,,Radar Lock.pdf
+docs/Atari2600/Raft Rider.pdf,https://archive.org/download/mister-manuals-db/Raft%20Rider.pdf,777736,274701baded575f3fb96080681533cd4,,,Raft Rider.pdf
+docs/Atari2600/Raiders of the Lost Ark.pdf,https://archive.org/download/mister-manuals-db/Raiders%20of%20the%20Lost%20Ark.pdf,1226306,501d8db50762aa0e42e1c7801af4e666,,,Raiders of the Lost Ark.pdf
+docs/Atari2600/Ram It.pdf,https://archive.org/download/mister-manuals-db/Ram%20It.pdf,507257,5b6ef37accb08cb77ff80b5486a14414,,,Ram It.pdf
+docs/Atari2600/Rampage.pdf,https://archive.org/download/mister-manuals-db/Rampage.pdf,691185,306fb73be22cbae9da22997be21e6dd7,,,Rampage.pdf
+docs/Atari2600/Reactor.pdf,https://archive.org/download/mister-manuals-db/Reactor.pdf,1246633,32f0365569a8313105c92b26a1b64ad5,,,Reactor.pdf
+docs/Atari2600/RealSports Baseball.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Baseball.pdf,1602453,b279845fa27217efc5736b04cbd8b9f2,,,RealSports Baseball.pdf
+docs/Atari2600/RealSports Basketball.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Basketball.pdf,496737,f5a5247e83c7a7d5b55c19d5f52182e1,,,RealSports Basketball.pdf
+docs/Atari2600/RealSports Boxing.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Boxing.pdf,417239,9dafea64ce310d6a1fff42d50ec8e162,,,RealSports Boxing.pdf
+docs/Atari2600/RealSports Football.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Football.pdf,1280372,ab340faa2b1788bfc7c61176d48842f8,,,RealSports Football.pdf
+docs/Atari2600/RealSports Soccer.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Soccer.pdf,1416865,5341f3af1b5602cc82717c8e36ea6f5f,,,RealSports Soccer.pdf
+docs/Atari2600/RealSports Tennis.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Tennis.pdf,643932,43e2b952592e38ba9eb22bb49fbb759e,,,RealSports Tennis.pdf
+docs/Atari2600/RealSports Volleyball.pdf,https://archive.org/download/mister-manuals-db/RealSports%20Volleyball.pdf,530450,c7a12e19ca4c411781eb0710ba2a5e8b,,,RealSports Volleyball.pdf
+docs/Atari2600/Red Sea Crossing.pdf,https://archive.org/download/mister-manuals-db/Red%20Sea%20Crossing.pdf,77541,7d8f1ea04e56165112201416adb12c4c,,,Red Sea Crossing.pdf
+docs/Atari2600/Rescue Terra I.pdf,https://archive.org/download/mister-manuals-db/Rescue%20Terra%20I.pdf,863302,6dba8911a29988f35674c51b9e9ee4c7,,,Rescue Terra I.pdf
+docs/Atari2600/Revenge of the Beefsteak Tomatoes.pdf,https://archive.org/download/mister-manuals-db/Revenge%20of%20the%20Beefsteak%20Tomatoes.pdf,213381,f7dcd0077fded992f34b80abdaa67460,,,Revenge of the Beefsteak Tomatoes.pdf
+docs/Atari2600/Riddle of the Sphinx.pdf,https://archive.org/download/mister-manuals-db/Riddle%20of%20the%20Sphinx.pdf,984562,8792f003c888cd7a46f2229061c56205,,,Riddle of the Sphinx.pdf
+docs/Atari2600/River Patrol.pdf,https://archive.org/download/mister-manuals-db/River%20Patrol.pdf,362250,523295b2433657196ec9d6a7cfa82ea2,,,River Patrol.pdf
+docs/Atari2600/River Raid .pdf,https://archive.org/download/mister-manuals-db/River%20Raid%20.pdf,555206,35ecbba78baeebca5fb438d2376f4223,,,River Raid .pdf
+docs/Atari2600/River Raid II.pdf,https://archive.org/download/mister-manuals-db/River%20Raid%20II.pdf,579635,785f957a72a75bb5956d0e66528e80e9,,,River Raid II.pdf
+docs/Atari2600/Road Runner.pdf,https://archive.org/download/mister-manuals-db/Road%20Runner.pdf,672583,e271fc886e6510c8c8d70137543eb408,,,Road Runner.pdf
+docs/Atari2600/Robin Hood.pdf,https://archive.org/download/mister-manuals-db/Robin%20Hood.pdf,1923126,a8c2fae6384a5b8831a428c56d78f81b,,,Robin Hood.pdf
+docs/Atari2600/Robot Tank.pdf,https://archive.org/download/mister-manuals-db/Robot%20Tank.pdf,1013729,5f7f08b1418adb66785c5eaf33812112,,,Robot Tank.pdf
+docs/Atari2600/Roc _n Rope.pdf,https://archive.org/download/mister-manuals-db/Roc%20_n%20Rope.pdf,1201724,a5c0765430a59cb2ee5b1a5b10f432b0,,,Roc _n Rope.pdf
+docs/Atari2600/Room of Doom.pdf,https://archive.org/download/mister-manuals-db/Room%20of%20Doom.pdf,892408,2808f60e882825c20155e6f430bf0b58,,,Room of Doom.pdf
+docs/Atari2600/Rubik_s Cube 3-D.pdf,https://archive.org/download/mister-manuals-db/Rubik_s%20Cube%203-D.pdf,768541,2b65d5f0d1e47cb795653d13e1e3cf99,,,Rubik_s Cube 3-D.pdf
+docs/Atari2600/Rush Hour.pdf,https://archive.org/download/mister-manuals-db/Rush%20Hour.pdf,416644,8ae699cb7f2e5818b06b84c169062bb4,,,Rush Hour.pdf
+docs/Atari2600/S.A.C. Alert.pdf,https://archive.org/download/mister-manuals-db/S.A.C.%20Alert.pdf,450815,801f039fa7a1cac623302cea5b857830,,,S.A.C. Alert.pdf
+docs/Atari2600/Saboteur.pdf,https://archive.org/download/mister-manuals-db/Saboteur.pdf,819215,ce3f1bd5552fc235b2ac38719bfcd5e6,,,Saboteur.pdf
+docs/Atari2600/Save Our Ship.pdf,https://archive.org/download/mister-manuals-db/Save%20Our%20Ship.pdf,279822,4cbecd9a59f9cdad182dd206cf2c94da,,,Save Our Ship.pdf
+docs/Atari2600/Save the Whales.pdf,https://archive.org/download/mister-manuals-db/Save%20the%20Whales.pdf,619190,b94808091b3e19a6fee2570e5d3b4788,,,Save the Whales.pdf
+docs/Atari2600/Sea Battle.pdf,https://archive.org/download/mister-manuals-db/Sea%20Battle.pdf,1792669,ed898a4317b80ba485fa6721f4c20ab7,,,Sea Battle.pdf
+docs/Atari2600/Sea Hawk.pdf,https://archive.org/download/mister-manuals-db/Sea%20Hawk.pdf,473941,12f97f54dc7193afffade738af74c4f7,,,Sea Hawk.pdf
+docs/Atari2600/Sea Monster.pdf,https://archive.org/download/mister-manuals-db/Sea%20Monster.pdf,156995,2ae4f8ea51c6cc9738c7f5b247619c5f,,,Sea Monster.pdf
+docs/Atari2600/Seaquest.pdf,https://archive.org/download/mister-manuals-db/Seaquest.pdf,649964,756b2194487671736e48747864cffeee,,,Seaquest.pdf
+docs/Atari2600/Secret Agent.pdf,https://archive.org/download/mister-manuals-db/Secret%20Agent.pdf,70407,c861d3508a57c453183aada2d752a40f,,,Secret Agent.pdf
+docs/Atari2600/Secret Quest.pdf,https://archive.org/download/mister-manuals-db/Secret%20Quest.pdf,472147,301ce0452e1ff656e993aa1191664f34,,,Secret Quest.pdf
+docs/Atari2600/Sentinel.pdf,https://archive.org/download/mister-manuals-db/Sentinel.pdf,760169,6dee5f1ab2422824d79b88cb26b7cb47,,,Sentinel.pdf
+docs/Atari2600/Shootin_ Gallery.pdf,https://archive.org/download/mister-manuals-db/Shootin_%20Gallery.pdf,540839,c7e8d17ee17f9a9cf442344fdf829b2b,,,Shootin_ Gallery.pdf
+docs/Atari2600/Shuttle Orbiter.pdf,https://archive.org/download/mister-manuals-db/Shuttle%20Orbiter.pdf,744586,17fd0aa5778ef0b651040c2de445e930,,,Shuttle Orbiter.pdf
+docs/Atari2600/Sir Lancelot.pdf,https://archive.org/download/mister-manuals-db/Sir%20Lancelot.pdf,2478672,378147a1e670d455250d18dfb2f07307,,,Sir Lancelot.pdf
+docs/Atari2600/Skate Boardin_ - A Radical Adventure.pdf,https://archive.org/download/mister-manuals-db/Skate%20Boardin_%20-%20A%20Radical%20Adventure.pdf,855043,f779c81ee93f411e36066116a393fc3a,,,Skate Boardin_ - A Radical Adventure.pdf
+docs/Atari2600/Skeet Shoot.pdf,https://archive.org/download/mister-manuals-db/Skeet%20Shoot.pdf,992138,4d3889c8f64349ae4b858a66109ce065,,,Skeet Shoot.pdf
+docs/Atari2600/Skiing.pdf,https://archive.org/download/mister-manuals-db/Skiing.pdf,537156,998763e836681dc39bab202d39b5393e,,,Skiing.pdf
+docs/Atari2600/Sky Diver.pdf,https://archive.org/download/mister-manuals-db/Sky%20Diver.pdf,710861,c4ecd9868b8397de92bbc35515e5a267,,,Sky Diver.pdf
+docs/Atari2600/Sky Jinks.pdf,https://archive.org/download/mister-manuals-db/Sky%20Jinks.pdf,464855,ebbe6a815a021459b252457a55b33bf8,,,Sky Jinks.pdf
+docs/Atari2600/Sky Skipper.pdf,https://archive.org/download/mister-manuals-db/Sky%20Skipper.pdf,793635,90a3cb6058656c741dc2d0c4194726a6,,,Sky Skipper.pdf
+docs/Atari2600/Slot Machine.pdf,https://archive.org/download/mister-manuals-db/Slot%20Machine.pdf,592354,7e4d1b8bdc62c6716e585e9e9d680c68,,,Slot Machine.pdf
+docs/Atari2600/Slot Racers.pdf,https://archive.org/download/mister-manuals-db/Slot%20Racers.pdf,819624,7651d082b275e3dc185e5df372ca396f,,,Slot Racers.pdf
+docs/Atari2600/Smurf - Rescue in Gargamel_s Castle.pdf,https://archive.org/download/mister-manuals-db/Smurf%20-%20Rescue%20in%20Gargamel_s%20Castle.pdf,1296703,71be649f190a3151b2452332cc6da881,,,Smurf - Rescue in Gargamel_s Castle.pdf
+docs/Atari2600/Smurfs Save the Day.pdf,https://archive.org/download/mister-manuals-db/Smurfs%20Save%20the%20Day.pdf,826279,158cf2d783661fc64cfd43945e1ca51f,,,Smurfs Save the Day.pdf
+docs/Atari2600/Snail Against Squirrel.pdf,https://archive.org/download/mister-manuals-db/Snail%20Against%20Squirrel.pdf,186932,a7eba0e7f76b2ac201f01e9b19220513,,,Snail Against Squirrel.pdf
+docs/Atari2600/Snark.pdf,https://archive.org/download/mister-manuals-db/Snark.pdf,5415,eb35bdb9dd60cf9d11975c9ed200ac04,,,Snark.pdf
+docs/Atari2600/Sneak _n Peek.pdf,https://archive.org/download/mister-manuals-db/Sneak%20_n%20Peek.pdf,768865,153d4a90f5abae17d419c2fc4869d783,,,Sneak _n Peek.pdf
+docs/Atari2600/Snoopy and the Red Baron.pdf,https://archive.org/download/mister-manuals-db/Snoopy%20and%20the%20Red%20Baron.pdf,1328709,f4ea0ef2c54e26e6809f3f017b3db84f,,,Snoopy and the Red Baron.pdf
+docs/Atari2600/Solar Fox.pdf,https://archive.org/download/mister-manuals-db/Solar%20Fox.pdf,861758,daabd82ecfa04458fc16af0813564ceb,,,Solar Fox.pdf
+docs/Atari2600/Solar Storm.pdf,https://archive.org/download/mister-manuals-db/Solar%20Storm.pdf,592081,e10222f361e286692b178aa3a032ff24,,,Solar Storm.pdf
+docs/Atari2600/Solaris.pdf,https://archive.org/download/mister-manuals-db/Solaris.pdf,769965,753c6c09b71b1ff7fb719ec4f06f7d95,,,Solaris.pdf
+docs/Atari2600/Sonar.pdf,https://archive.org/download/mister-manuals-db/Sonar.pdf,52140,121a36dd62430858975d5210d311eb20,,,Sonar.pdf
+docs/Atari2600/Sorcerer.pdf,https://archive.org/download/mister-manuals-db/Sorcerer.pdf,724930,c089d03c0fa27b170b07c2546e0bdb8e,,,Sorcerer.pdf
+docs/Atari2600/Sorcerer_s Apprentice.pdf,https://archive.org/download/mister-manuals-db/Sorcerer_s%20Apprentice.pdf,1515326,751d73440ac49ac13e701dc6cb48e734,,,Sorcerer_s Apprentice.pdf
+docs/Atari2600/Space Attack.pdf,https://archive.org/download/mister-manuals-db/Space%20Attack.pdf,1109568,385b9034c8d240e2a09abc33edd7e4d9,,,Space Attack.pdf
+docs/Atari2600/Space Cavern.pdf,https://archive.org/download/mister-manuals-db/Space%20Cavern.pdf,327712,b8d107678411a7713af9ee79b155a3c9,,,Space Cavern.pdf
+docs/Atari2600/Space Invaders.pdf,https://archive.org/download/mister-manuals-db/Space%20Invaders.pdf,504393,7eb708451236406b946242d95a89300c,,,Space Invaders.pdf
+docs/Atari2600/Space Jockey.pdf,https://archive.org/download/mister-manuals-db/Space%20Jockey.pdf,181730,9f25bdd7b175c79eb0ab7a6dcd9d63f0,,,Space Jockey.pdf
+docs/Atari2600/Space Shuttle - A Journey into Space.pdf,https://archive.org/download/mister-manuals-db/Space%20Shuttle%20-%20A%20Journey%20into%20Space.pdf,3848031,61879ea56be6f56187ef8547d1ebd893,,,Space Shuttle - A Journey into Space.pdf
+docs/Atari2600/Space Tunnel.pdf,https://archive.org/download/mister-manuals-db/Space%20Tunnel.pdf,807033,94c9feea5f851336b755e33d072205b6,,,Space Tunnel.pdf
+docs/Atari2600/Space War.pdf,https://archive.org/download/mister-manuals-db/Space%20War.pdf,851530,af368b027016dabb9ca208654fe17421,,,Space War.pdf
+docs/Atari2600/SpaceMaster X-7.pdf,https://archive.org/download/mister-manuals-db/SpaceMaster%20X-7.pdf,739913,b606c32d7b9f08215968eda974d4b5f6,,,SpaceMaster X-7.pdf
+docs/Atari2600/Spacechase.pdf,https://archive.org/download/mister-manuals-db/Spacechase.pdf,804361,de312da673907e4517854999a48c1eb0,,,Spacechase.pdf
+docs/Atari2600/Spider Fighter.pdf,https://archive.org/download/mister-manuals-db/Spider%20Fighter.pdf,463437,d9ea50a25e48752d7319904e1fdb5ac6,,,Spider Fighter.pdf
+docs/Atari2600/Spider-Man.pdf,https://archive.org/download/mister-manuals-db/Spider-Man.pdf,900598,10f45fd2a6a3e0c294fc1bfa22b70764,,,Spider-Man.pdf
+docs/Atari2600/Spike_s Peak.pdf,https://archive.org/download/mister-manuals-db/Spike_s%20Peak.pdf,761307,3d6ebddef190260389033ce8b84d9415,,,Spike_s Peak.pdf
+docs/Atari2600/Spitfire Attack.pdf,https://archive.org/download/mister-manuals-db/Spitfire%20Attack.pdf,710745,d6383756dd9e3b77c232269e97ac3edf,,,Spitfire Attack.pdf
+docs/Atari2600/Springer.pdf,https://archive.org/download/mister-manuals-db/Springer.pdf,333507,a0cf1a060da5d9bbb1d05938be134da0,,,Springer.pdf
+docs/Atari2600/Sprint Master.pdf,https://archive.org/download/mister-manuals-db/Sprint%20Master.pdf,434511,953df382d5a7f49cb1b42710da76147d,,,Sprint Master.pdf
+docs/Atari2600/Spy Hunter.pdf,https://archive.org/download/mister-manuals-db/Spy%20Hunter.pdf,946564,202e5ab689fb92c31503aaf9650b1727,,,Spy Hunter.pdf
+docs/Atari2600/Squeeze Box.pdf,https://archive.org/download/mister-manuals-db/Squeeze%20Box.pdf,576238,65b0a68b40786cf23908f2c612fb5b93,,,Squeeze Box.pdf
+docs/Atari2600/Sssnake.pdf,https://archive.org/download/mister-manuals-db/Sssnake.pdf,796473,1e506cf8ef2d1fd3847a4036c39e0c67,,,Sssnake.pdf
+docs/Atari2600/Stampede.pdf,https://archive.org/download/mister-manuals-db/Stampede.pdf,743440,e8feb9c3de50a20cc32ffc4ecb790d74,,,Stampede.pdf
+docs/Atari2600/Star Fox.pdf,https://archive.org/download/mister-manuals-db/Star%20Fox.pdf,835739,305f93f17deb3811303623f8e374c79d,,,Star Fox.pdf
+docs/Atari2600/Star Raiders.pdf,https://archive.org/download/mister-manuals-db/Star%20Raiders.pdf,7053521,98b900de4bea0ccb8fa17d753c10b8e2,,,Star Raiders.pdf
+docs/Atari2600/Star Ship.pdf,https://archive.org/download/mister-manuals-db/Star%20Ship.pdf,903390,8e11510221d5567bf555b42e721942e2,,,Star Ship.pdf
+docs/Atari2600/Star Strike.pdf,https://archive.org/download/mister-manuals-db/Star%20Strike.pdf,747477,e81152b4f715ced84049e6a3d153f125,,,Star Strike.pdf
+docs/Atari2600/Star Trek - Strategic Operations Simulator.pdf,https://archive.org/download/mister-manuals-db/Star%20Trek%20-%20Strategic%20Operations%20Simulator.pdf,1112877,16080fea49cd726aaf071af881ac9414,,,Star Trek - Strategic Operations Simulator.pdf
+docs/Atari2600/Star Voyager.pdf,https://archive.org/download/mister-manuals-db/Star%20Voyager.pdf,728830,5eacfae9e1bb258650bbfc149a00f8b5,,,Star Voyager.pdf
+docs/Atari2600/Star Wars - Jedi Arena.pdf,https://archive.org/download/mister-manuals-db/Star%20Wars%20-%20Jedi%20Arena.pdf,741128,ed68584db3d734a2e4c683cb15598940,,,Star Wars - Jedi Arena.pdf
+docs/Atari2600/Star Wars - Return of the Jedi - Death Star Battle.pdf,https://archive.org/download/mister-manuals-db/Star%20Wars%20-%20Return%20of%20the%20Jedi%20-%20Death%20Star%20Battle.pdf,1012030,e36d268c00488da52e2889f16f0d93dd,,,Star Wars - Return of the Jedi - Death Star Battle.pdf
+docs/Atari2600/Star Wars - Return of the Jedi - Ewok Adventure.pdf,https://archive.org/download/mister-manuals-db/Star%20Wars%20-%20Return%20of%20the%20Jedi%20-%20Ewok%20Adventure.pdf,319788,f43411a06dbca1a8ba019c3bda6a4696,,,Star Wars - Return of the Jedi - Ewok Adventure.pdf
+docs/Atari2600/Star Wars - The Arcade Game.pdf,https://archive.org/download/mister-manuals-db/Star%20Wars%20-%20The%20Arcade%20Game.pdf,606533,d6f239653edcce8e66e05a6f4152f706,,,Star Wars - The Arcade Game.pdf
+docs/Atari2600/Star Wars - The Empire Strikes Back.pdf,https://archive.org/download/mister-manuals-db/Star%20Wars%20-%20The%20Empire%20Strikes%20Back.pdf,628788,65a1779a81a96b1833faee79164a0f43,,,Star Wars - The Empire Strikes Back.pdf
+docs/Atari2600/StarMaster.pdf,https://archive.org/download/mister-manuals-db/StarMaster.pdf,724674,0ff5b8ebe23897c460a75113eecdc3f5,,,StarMaster.pdf
+docs/Atari2600/Stargate.pdf,https://archive.org/download/mister-manuals-db/Stargate.pdf,1444159,340752e311f8257da33b9ca38b6b4edb,,,Stargate.pdf
+docs/Atari2600/Stargunner.pdf,https://archive.org/download/mister-manuals-db/Stargunner.pdf,638642,cad7861146f14efe080704176ce37f99,,,Stargunner.pdf
+docs/Atari2600/Steeplechase.pdf,https://archive.org/download/mister-manuals-db/Steeplechase.pdf,712482,33bfebb269e57bbce3d6f9929f8c8d31,,,Steeplechase.pdf
+docs/Atari2600/Stellar Track.pdf,https://archive.org/download/mister-manuals-db/Stellar%20Track.pdf,1122822,82f758552b34a6a953859ceb58496b9a,,,Stellar Track.pdf
+docs/Atari2600/Stone Age.pdf,https://archive.org/download/mister-manuals-db/Stone%20Age.pdf,54522,432b8ba0dfc10183e3ee6a93232dd3ad,,,Stone Age.pdf
+docs/Atari2600/Strategy X.pdf,https://archive.org/download/mister-manuals-db/Strategy%20X.pdf,764997,ce0cf9d25cfc3f451aa0d81958a6c252,,,Strategy X.pdf
+docs/Atari2600/Strawberry Shortcake - Musical Match-Ups.pdf,https://archive.org/download/mister-manuals-db/Strawberry%20Shortcake%20-%20Musical%20Match-Ups.pdf,1036247,bb343d2134440e8c249268f4700bb284,,,Strawberry Shortcake - Musical Match-Ups.pdf
+docs/Atari2600/Street Racer.pdf,https://archive.org/download/mister-manuals-db/Street%20Racer.pdf,575074,4205bd006b6d845979854756151d91fe,,,Street Racer.pdf
+docs/Atari2600/Stronghold.pdf,https://archive.org/download/mister-manuals-db/Stronghold.pdf,772199,60ee23a0e8c8803952798911fdf846ed,,,Stronghold.pdf
+docs/Atari2600/Stunt Cycle.pdf,https://archive.org/download/mister-manuals-db/Stunt%20Cycle.pdf,955707,774d7ec6eee125f01e901b0855131977,,,Stunt Cycle.pdf
+docs/Atari2600/Sub-Scan.pdf,https://archive.org/download/mister-manuals-db/Sub-Scan.pdf,653246,296212bea0258836acf475b442f9da51,,,Sub-Scan.pdf
+docs/Atari2600/Submarine Commander.pdf,https://archive.org/download/mister-manuals-db/Submarine%20Commander.pdf,714129,9026a84f93fa1b51eb0f6bc57f3fec55,,,Submarine Commander.pdf
+docs/Atari2600/Subterranea.pdf,https://archive.org/download/mister-manuals-db/Subterranea.pdf,989785,87b147959219886972a63a1b498eb550,,,Subterranea.pdf
+docs/Atari2600/Suicide Mission.pdf,https://archive.org/download/mister-manuals-db/Suicide%20Mission.pdf,662585,b1c7638eb3814f90b4f75e16d5793e32,,,Suicide Mission.pdf
+docs/Atari2600/Summer Games.pdf,https://archive.org/download/mister-manuals-db/Summer%20Games.pdf,622009,76fd3ea8806144000cf994485003226d,,,Summer Games.pdf
+docs/Atari2600/Super Baseball.pdf,https://archive.org/download/mister-manuals-db/Super%20Baseball.pdf,489838,90f71240b79cb880a19114d6bb4355c8,,,Super Baseball.pdf
+docs/Atari2600/Super Breakout.pdf,https://archive.org/download/mister-manuals-db/Super%20Breakout.pdf,560856,93f4529dc98b6896803aba126fbb3770,,,Super Breakout.pdf
+docs/Atari2600/Super Challenge Baseball.pdf,https://archive.org/download/mister-manuals-db/Super%20Challenge%20Baseball.pdf,971935,1531ab6b32804d2b13f40a444e40b95f,,,Super Challenge Baseball.pdf
+docs/Atari2600/Super Challenge Football.pdf,https://archive.org/download/mister-manuals-db/Super%20Challenge%20Football.pdf,641867,2f6195320022c10b114eca05ce89ab5a,,,Super Challenge Football.pdf
+docs/Atari2600/Super Cobra.pdf,https://archive.org/download/mister-manuals-db/Super%20Cobra.pdf,936269,7d806e24cdaf33770ebcd057408e5eb7,,,Super Cobra.pdf
+docs/Atari2600/Super Football.pdf,https://archive.org/download/mister-manuals-db/Super%20Football.pdf,485739,ce6618e31fb9747584360467df96a16f,,,Super Football.pdf
+docs/Atari2600/Superman.pdf,https://archive.org/download/mister-manuals-db/Superman.pdf,503526,b76db3c3f72f1498a35686b22d48b3a0,,,Superman.pdf
+docs/Atari2600/Surfer_s Paradise - But Danger Below!.pdf,https://archive.org/download/mister-manuals-db/Surfer_s%20Paradise%20-%20But%20Danger%20Below%21.pdf,687645,d014794475f8b6dd701deb96ebe66eba,,,Surfer_s Paradise - But Danger Below!.pdf
+docs/Atari2600/Surround.pdf,https://archive.org/download/mister-manuals-db/Surround.pdf,793291,b3142dfac0d0cd7d36bcbc3d5431c6a6,,,Surround.pdf
+docs/Atari2600/Survival Island.pdf,https://archive.org/download/mister-manuals-db/Survival%20Island.pdf,917971,08801b7870d1f1b0f6922529656fa9c7,,,Survival Island.pdf
+docs/Atari2600/Survival Run.pdf,https://archive.org/download/mister-manuals-db/Survival%20Run.pdf,968474,0531c768d5f1dac5988800ce3e6ef5fd,,,Survival Run.pdf
+docs/Atari2600/Sword Fight.pdf,https://archive.org/download/mister-manuals-db/Sword%20Fight.pdf,289546,7d3ad2a08cca58b7dc9adec15142651b,,,Sword Fight.pdf
+docs/Atari2600/Sword of Saros.pdf,https://archive.org/download/mister-manuals-db/Sword%20of%20Saros.pdf,767542,853d4b6af975bee0e3ac995de6ab070c,,,Sword of Saros.pdf
+docs/Atari2600/SwordQuest - EarthWorld.pdf,https://archive.org/download/mister-manuals-db/SwordQuest%20-%20EarthWorld.pdf,5223125,09625154ee8da3e8ec9c070bcee2ec8b,,,SwordQuest - EarthWorld.pdf
+docs/Atari2600/SwordQuest - FireWorld.pdf,https://archive.org/download/mister-manuals-db/SwordQuest%20-%20FireWorld.pdf,5457486,09fb23524a8e4e9dff33b7284df4a193,,,SwordQuest - FireWorld.pdf
+docs/Atari2600/SwordQuest - WaterWorld.pdf,https://archive.org/download/mister-manuals-db/SwordQuest%20-%20WaterWorld.pdf,4733741,19f7900d2e6fd146b65620a0e4812a74,,,SwordQuest - WaterWorld.pdf
+docs/Atari2600/Tac-Scan.pdf,https://archive.org/download/mister-manuals-db/Tac-Scan.pdf,877526,2d3d65a83e84143f2bf3d44671971a6d,,,Tac-Scan.pdf
+docs/Atari2600/Tanks But No Tanks.pdf,https://archive.org/download/mister-manuals-db/Tanks%20But%20No%20Tanks.pdf,759453,88ee7993af3c777e2c3daa33efec75cc,,,Tanks But No Tanks.pdf
+docs/Atari2600/Tape Worm.pdf,https://archive.org/download/mister-manuals-db/Tape%20Worm.pdf,498849,1464b132f85873bca707900bcc245569,,,Tape Worm.pdf
+docs/Atari2600/Tapper.pdf,https://archive.org/download/mister-manuals-db/Tapper.pdf,963486,1ea1bdf402cd3bfcf5e72b509f8c61a0,,,Tapper.pdf
+docs/Atari2600/Tarzan.pdf,https://archive.org/download/mister-manuals-db/Tarzan.pdf,943961,58db12c89cdf766b3e72b61cf4096e8a,,,Tarzan.pdf
+docs/Atari2600/Tax Avoiders.pdf,https://archive.org/download/mister-manuals-db/Tax%20Avoiders.pdf,655711,766723a98dbc38a81f1cec4caf920aaa,,,Tax Avoiders.pdf
+docs/Atari2600/Taz.pdf,https://archive.org/download/mister-manuals-db/Taz.pdf,645229,2d8b8a83ca5a6fc95d39d1fa67c194c5,,,Taz.pdf
+docs/Atari2600/Tennis.pdf,https://archive.org/download/mister-manuals-db/Tennis.pdf,415871,b65119a90fae1a0f987a229bb43d39ca,,,Tennis.pdf
+"docs/Atari2600/Texas Chainsaw Massacre, The.pdf",https://archive.org/download/mister-manuals-db/Texas%20Chainsaw%20Massacre%2C%20The.pdf,485959,b9ae2622a4762f70c16675f420818f8e,,,"Texas Chainsaw Massacre, The.pdf"
+docs/Atari2600/Threshold.pdf,https://archive.org/download/mister-manuals-db/Threshold.pdf,440059,efce540ae79d3f2c527ed4aac0e2d1d5,,,Threshold.pdf
+docs/Atari2600/Thunderground.pdf,https://archive.org/download/mister-manuals-db/Thunderground.pdf,811658,7beaf2b59bfb218b6fd3c116bb6bd28d,,,Thunderground.pdf
+docs/Atari2600/Thwocker.pdf,https://archive.org/download/mister-manuals-db/Thwocker.pdf,582710,b77033f9775b0e4981c395192ae4e5f8,,,Thwocker.pdf
+docs/Atari2600/Time Pilot.pdf,https://archive.org/download/mister-manuals-db/Time%20Pilot.pdf,1271187,fede1cc354b0b15af45d465e092409a8,,,Time Pilot.pdf
+docs/Atari2600/Time Warp.pdf,https://archive.org/download/mister-manuals-db/Time%20Warp.pdf,80949,69a37baa1f6860b99256b4637a373009,,,Time Warp.pdf
+docs/Atari2600/Title Match Pro Wrestling.pdf,https://archive.org/download/mister-manuals-db/Title%20Match%20Pro%20Wrestling.pdf,1439226,0098858d63fb051eaf0728b8e07f4355,,,Title Match Pro Wrestling.pdf
+docs/Atari2600/Tomarc the Barbarian.pdf,https://archive.org/download/mister-manuals-db/Tomarc%20the%20Barbarian.pdf,1644691,8a969e762fc68c5dfae53594fcc92f80,,,Tomarc the Barbarian.pdf
+docs/Atari2600/Tomcat - The F-14 Fighter Simulator.pdf,https://archive.org/download/mister-manuals-db/Tomcat%20-%20The%20F-14%20Fighter%20Simulator.pdf,746498,7351dfc5eb470fb794aedb1af0aad36e,,,Tomcat - The F-14 Fighter Simulator.pdf
+docs/Atari2600/Tooth Protectors.pdf,https://archive.org/download/mister-manuals-db/Tooth%20Protectors.pdf,972689,b3150e2d97dcb61def7e12917748c310,,,Tooth Protectors.pdf
+docs/Atari2600/Towering Inferno.pdf,https://archive.org/download/mister-manuals-db/Towering%20Inferno.pdf,485265,6f81544e4c70b68a2044ec4885f65033,,,Towering Inferno.pdf
+docs/Atari2600/Track & Field.pdf,https://archive.org/download/mister-manuals-db/Track%20%26%20Field.pdf,934913,99b6cfe5fede558c5a3adc149a32e0ee,,,Track & Field.pdf
+docs/Atari2600/Treasure Below.pdf,https://archive.org/download/mister-manuals-db/Treasure%20Below.pdf,627580,aec3e4bd97d3a9f265e55c83c976cf82,,,Treasure Below.pdf
+docs/Atari2600/Treasure Island.pdf,https://archive.org/download/mister-manuals-db/Treasure%20Island.pdf,39915,ee2e0fc5d7c221a778f6ff88d6303a11,,,Treasure Island.pdf
+docs/Atari2600/Trick Shot.pdf,https://archive.org/download/mister-manuals-db/Trick%20Shot.pdf,867532,c1d5f51a1f536687c524f94fecbca238,,,Trick Shot.pdf
+docs/Atari2600/Tron - Deadly Discs.pdf,https://archive.org/download/mister-manuals-db/Tron%20-%20Deadly%20Discs.pdf,1153711,8f7effab012be84a2ac360a78747ec1c,,,Tron - Deadly Discs.pdf
+docs/Atari2600/Tunnel Runner.pdf,https://archive.org/download/mister-manuals-db/Tunnel%20Runner.pdf,1130102,b550e9555d1527e5a432540450408658,,,Tunnel Runner.pdf
+docs/Atari2600/Turmoil.pdf,https://archive.org/download/mister-manuals-db/Turmoil.pdf,699895,452b600e74e0f23a62f0d3fa1a3ab383,,,Turmoil.pdf
+docs/Atari2600/Tutankham.pdf,https://archive.org/download/mister-manuals-db/Tutankham.pdf,1222541,017080ca4adf76dd5f619507c80aac44,,,Tutankham.pdf
+docs/Atari2600/Universal Chaos.pdf,https://archive.org/download/mister-manuals-db/Universal%20Chaos.pdf,111516,312c243579fefa3ca5766c71b0c7ad53,,,Universal Chaos.pdf
+docs/Atari2600/Up _n Down.pdf,https://archive.org/download/mister-manuals-db/Up%20_n%20Down.pdf,858085,a447559a2183b9c02b29e9626cce4f6c,,,Up _n Down.pdf
+docs/Atari2600/Vanguard.pdf,https://archive.org/download/mister-manuals-db/Vanguard.pdf,2107488,97944795d1150e9737f0d897d1bb4902,,,Vanguard.pdf
+docs/Atari2600/Venture.pdf,https://archive.org/download/mister-manuals-db/Venture.pdf,881026,eb2394a1ed391f004952638980b0c664,,,Venture.pdf
+docs/Atari2600/Video Checkers.pdf,https://archive.org/download/mister-manuals-db/Video%20Checkers.pdf,1085390,1c0a4f587d60cd7ed11ebe706e2afb62,,,Video Checkers.pdf
+docs/Atari2600/Video Chess.pdf,https://archive.org/download/mister-manuals-db/Video%20Chess.pdf,598771,113a5a48530c94b78c669b7dc4b248d8,,,Video Chess.pdf
+docs/Atari2600/Video Jogger.pdf,https://archive.org/download/mister-manuals-db/Video%20Jogger.pdf,2255429,4f6a8e2149d7da063bae0d0dc316a60b,,,Video Jogger.pdf
+docs/Atari2600/Video Life.pdf,https://archive.org/download/mister-manuals-db/Video%20Life.pdf,988572,df254e7488e818f4ecc3165ec0abfb6b,,,Video Life.pdf
+docs/Atari2600/Video Olympics.pdf,https://archive.org/download/mister-manuals-db/Video%20Olympics.pdf,1808221,008a8e1f1f09b42b7b44f2df809feaa5,,,Video Olympics.pdf
+docs/Atari2600/Video Pinball.pdf,https://archive.org/download/mister-manuals-db/Video%20Pinball.pdf,595680,4460adee10029cc321270477c62b31b6,,,Video Pinball.pdf
+docs/Atari2600/Video Reflex.pdf,https://archive.org/download/mister-manuals-db/Video%20Reflex.pdf,2255429,4f6a8e2149d7da063bae0d0dc316a60b,,,Video Reflex.pdf
+docs/Atari2600/Wabbit.pdf,https://archive.org/download/mister-manuals-db/Wabbit.pdf,444543,eeaa36ab5c9d5549fbbb6c950ae52bd3,,,Wabbit.pdf
+docs/Atari2600/Wall Ball.pdf,https://archive.org/download/mister-manuals-db/Wall%20Ball.pdf,961065,26bc9e3d6d9f2dd2991bbaa56ac06851,,,Wall Ball.pdf
+docs/Atari2600/Wall Defender.pdf,https://archive.org/download/mister-manuals-db/Wall%20Defender.pdf,203494,6e6a3a9d38f7f3cf79e1877ca00761c5,,,Wall Defender.pdf
+docs/Atari2600/Warlords.pdf,https://archive.org/download/mister-manuals-db/Warlords.pdf,1263631,c27a93d422996f2841bb2b52d15b7824,,,Warlords.pdf
+docs/Atari2600/Warplock.pdf,https://archive.org/download/mister-manuals-db/Warplock.pdf,638011,06d3c7bbac8dc685688cb6a2624292fb,,,Warplock.pdf
+docs/Atari2600/Wing War.pdf,https://archive.org/download/mister-manuals-db/Wing%20War.pdf,288186,88944638a59a23c345e6540431974778,,,Wing War.pdf
+docs/Atari2600/Winter Games.pdf,https://archive.org/download/mister-manuals-db/Winter%20Games.pdf,603603,aa61a8ff9083a8074c43c4cb6de6e54e,,,Winter Games.pdf
+docs/Atari2600/Wizard of Wor.pdf,https://archive.org/download/mister-manuals-db/Wizard%20of%20Wor.pdf,797899,fa5b5d5960e026321bd74beabea8b8bc,,,Wizard of Wor.pdf
+docs/Atari2600/Word Zapper.pdf,https://archive.org/download/mister-manuals-db/Word%20Zapper.pdf,380563,a6fc506200f205ec022cc0f21e0ad147,,,Word Zapper.pdf
+docs/Atari2600/Worm War I.pdf,https://archive.org/download/mister-manuals-db/Worm%20War%20I.pdf,675113,aad9d0b25e2e77d3e6c067b61bb6ce9b,,,Worm War I.pdf
+docs/Atari2600/X-Man.pdf,https://archive.org/download/mister-manuals-db/X-Man.pdf,555184,fa5055b4ef7f23cbdb78a1cea3d9e440,,,X-Man.pdf
+docs/Atari2600/Xenophobe.pdf,https://archive.org/download/mister-manuals-db/Xenophobe.pdf,1115821,26d706d67acb3c359ab856dd32990097,,,Xenophobe.pdf
+docs/Atari2600/Yars_ Revenge.pdf,https://archive.org/download/mister-manuals-db/Yars_%20Revenge.pdf,2273674,41f72ceaf9aaa1632b68b66c10011cd3,,,Yars_ Revenge.pdf
+docs/Atari2600/Zaxxon.pdf,https://archive.org/download/mister-manuals-db/Zaxxon.pdf,1656292,e68f1a12fc3a5dbe9ef333ee45614b8f,,,Zaxxon.pdf
